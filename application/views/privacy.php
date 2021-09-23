@@ -21,11 +21,11 @@
     <title>Privacy Policy - Mark</title>
     
     <!-- Styles -->
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400&family=Poppins:wght@600&display=swap" rel="stylesheet">
-    <link href="css/bootstrap.css" rel="stylesheet">
-    <link href="css/fontawesome-all.css" rel="stylesheet">
-	<link href="css/styles.css" rel="stylesheet">
+    <link rel="preconnect" href="<?php echo base_url();?>/resources/https://fonts.gstatic.com">
+    <link href="<?php echo base_url();?>/resources/https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400&family=Poppins:wght@600&display=swap" rel="stylesheet">
+    <link href="<?php echo base_url();?>/resources/css/bootstrap.css" rel="stylesheet">
+    <link href="<?php echo base_url();?>/resources/css/fontawesome-all.css" rel="stylesheet">
+	<link href="<?php echo base_url();?>/resources/css/styles.css" rel="stylesheet">
 	
 	<!-- Favicon  -->
     <link rel="icon" href="images/favicon.png">
@@ -275,9 +275,9 @@
     
     	
     <!-- Scripts -->
-    <script src="js/jquery.min.js"></script> <!-- jQuery for Bootstrap's JavaScript plugins -->
-    <script src="js/bootstrap.min.js"></script> <!-- Bootstrap framework -->
-    <script src="js/jquery.easing.min.js"></script> <!-- jQuery Easing for smooth scrolling between anchors -->
-    <script src="js/scripts.js"></script> <!-- Custom scripts -->
+    <script src="<?php echo base_url();?>/resources/js/jquery.min.js"></script> <!-- jQuery for Bootstrap's JavaScript plugins -->
+    <script src="<?php echo base_url();?>/resources/js/bootstrap.min.js"></script> <!-- Bootstrap framework -->
+    <script src="<?php echo base_url();?>/resources/js/jquery.easing.min.js"></script> <!-- jQuery Easing for smooth scrolling between anchors -->
+    <script src="<?php echo base_url();?>/resources/js/scripts.js"></script> <!-- Custom scripts -->
 </body>
 </html>
