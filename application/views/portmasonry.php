@@ -7,7 +7,7 @@
           <div class="art-curtain"></div>
 
           <!-- top background -->
-          <div class="art-top-bg" style="background-image: url(img/bg.jpg)">
+          <div class="art-top-bg" style="background-image: url(<?php echo base_url();?>/resources/img/bg.jpg)">
             <!-- overlay -->
             <div class="art-top-bg-overlay"></div>
             <!-- overlay end -->
@@ -35,14 +35,6 @@
                     <div class="art-filter mb-30">
                       <!-- filter link -->
                       <a href="#" data-filter="*" class="art-link art-current">All Categories</a>
-                      <!-- filter link -->
-                      <a href="#" data-filter=".webTemplates" class="art-link">Web Templates</a>
-                      <!-- filter link -->
-                      <a href="#" data-filter=".logos" class="art-link">Logos</a>
-                      <!-- filter link -->
-                      <a href="#" data-filter=".drawings" class="art-link">Drawings</a>
-                      <!-- filter link -->
-                      <a href="#" data-filter=".ui" class="art-link">UI Elements</a>
                     </div>
                     <!-- filter end -->
 
@@ -55,9 +47,9 @@
                     <div class="art-grid-item webTemplates">
 
                       <!-- grid item frame -->
-                      <a data-fancybox="gallery" href="img/works/original-size/1.jpg" class="art-a art-portfolio-item-frame art-horizontal">
+                      <a data-fancybox="gallery" href="<?php echo base_url();?>/resources/img/works/original-size/1.jpg" class="art-a art-portfolio-item-frame art-horizontal">
                         <!-- img -->
-                        <img src="img/works/thumbnail/1.jpg" alt="item">
+                        <img src="<?php echo base_url();?>/resources/img/works/thumbnail/1.jpg" alt="item">
                         <!-- zoom icon -->
                         <span class="art-item-hover"><i class="fas fa-expand"></i></span>
                       </a>
@@ -68,7 +60,7 @@
                         <h5 class="mb-15">Project title</h5>
                         <div class="mb-15">Sit amet, consectetur adipisicing elit. Quas, architecto.</div>
                         <!-- button -->
-                        <a href="/portfolio-single.html" class="art-link art-color-link art-w-chevron">Read more</a>
+                        <a href="https://www.callmetron.com/" class="art-link art-color-link art-w-chevron">Read more</a>
                       </div>
                       <!-- description end -->
 
@@ -79,9 +71,9 @@
                     <div class="art-grid-item logos">
 
                       <!-- grid item frame -->
-                      <a data-fancybox="gallery" href="img/works/original-size/2.jpg" class="art-a art-portfolio-item-frame art-vertical">
+                      <a data-fancybox="gallery" href="<?php echo base_url();?>/resources/img/works/original-size/2.jpg" class="art-a art-portfolio-item-frame art-vertical">
                         <!-- img -->
-                        <img src="img/works/thumbnail/2.jpg" alt="item">
+                        <img src="<?php echo base_url();?>/resources/img/works/thumbnail/2.jpg" alt="item">
                         <!-- zoom icon -->
                         <span class="art-item-hover"><i class="fas fa-expand"></i></span>
                       </a>
@@ -92,7 +84,7 @@
                         <h5 class="mb-15">Project title</h5>
                         <div class="mb-15">Sit amet, consectetur adipisicing elit. Quas, architecto.</div>
                         <!-- button -->
-                        <a href="/portfolio-single.html" class="art-link art-color-link art-w-chevron">Read more</a>
+                        <a href="https://finsys-group.com/" class="art-link art-color-link art-w-chevron">Read more</a>
                       </div>
                       <!-- description end -->
 
@@ -103,9 +95,9 @@
                     <div class="art-grid-item drawings">
 
                       <!-- grid item frame -->
-                      <a data-fancybox="gallery" href="img/works/original-size/3.jpg" class="art-a art-portfolio-item-frame art-horizontal">
+                      <a data-fancybox="gallery" href="<?php echo base_url();?>/resources/img/works/original-size/3.jpg" class="art-a art-portfolio-item-frame art-horizontal">
                         <!-- img -->
-                        <img src="img/works/thumbnail/3.jpg" alt="item">
+                        <img src="<?php echo base_url();?>/resources/img/works/thumbnail/3.jpg" alt="item">
                         <!-- zoom icon -->
                         <span class="art-item-hover"><i class="fas fa-expand"></i></span>
                       </a>
@@ -116,7 +108,7 @@
                         <h5 class="mb-15">Project title</h5>
                         <div class="mb-15">Sit amet, consectetur adipisicing elit. Quas, architecto.</div>
                         <!-- button -->
-                        <a href="/portfolio-single.html" class="art-link art-color-link art-w-chevron">Read more</a>
+                        <a href="https://finsys-group.com/" class="art-link art-color-link art-w-chevron">Read more</a>
                       </div>
                       <!-- description end -->
 
@@ -127,9 +119,9 @@
                     <div class="art-grid-item ui">
 
                       <!-- grid item frame -->
-                      <a data-fancybox="gallery" href="img/works/original-size/4.jpg" class="art-a art-portfolio-item-frame art-square">
+                      <a data-fancybox="gallery" href="<?php echo base_url();?>/resources/img/works/original-size/4.jpg" class="art-a art-portfolio-item-frame art-square">
                         <!-- img -->
-                        <img src="img/works/thumbnail/4.jpg" alt="item">
+                        <img src="<?php echo base_url();?>/resources/img/works/thumbnail/4.jpg" alt="item">
                         <!-- zoom icon -->
                         <span class="art-item-hover"><i class="fas fa-expand"></i></span>
                       </a>
@@ -140,7 +132,7 @@
                         <h5 class="mb-15">Project title</h5>
                         <div class="mb-15">Sit amet, consectetur adipisicing elit. Quas, architecto.</div>
                         <!-- button -->
-                        <a href="/portfolio-single.html" class="art-link art-color-link art-w-chevron">Read more</a>
+                        <a href="https://demo.callmetron.com/" class="art-link art-color-link art-w-chevron">Read more</a>
                       </div>
                       <!-- description end -->
 
@@ -151,9 +143,9 @@
                     <div class="art-grid-item webTemplates">
 
                       <!-- grid item frame -->
-                      <a data-fancybox="gallery" href="img/works/original-size/5.jpg" class="art-a art-portfolio-item-frame art-square">
+                      <a data-fancybox="gallery" href="<?php echo base_url();?>/resources/img/works/original-size/5.jpg" class="art-a art-portfolio-item-frame art-square">
                         <!-- img -->
-                        <img src="img/works/thumbnail/5.jpg" alt="item">
+                        <img src="<?php echo base_url();?>/resources/img/works/thumbnail/5.jpg" alt="item">
                         <!-- zoom icon -->
                         <span class="art-item-hover"><i class="fas fa-expand"></i></span>
                       </a>
@@ -164,90 +156,14 @@
                         <h5 class="mb-15">Project title</h5>
                         <div class="mb-15">Sit amet, consectetur adipisicing elit. Quas, architecto.</div>
                         <!-- button -->
-                        <a href="/portfolio-single.html" class="art-link art-color-link art-w-chevron">Read more</a>
+                        <a href="https://creditcheck.co.ke/" class="art-link art-color-link art-w-chevron">Read more</a>
                       </div>
                       <!-- description end -->
 
                     </div>
                     <!-- grid item end -->
 
-                    <!-- grid item -->
-                    <div class="art-grid-item logos">
-
-                      <!-- grid item frame -->
-                      <a data-fancybox="gallery" href="img/works/original-size/6.jpg" class="art-a art-portfolio-item-frame art-vertical">
-                        <!-- img -->
-                        <img src="img/works/thumbnail/6.jpg" alt="item">
-                        <!-- zoom icon -->
-                        <span class="art-item-hover"><i class="fas fa-expand"></i></span>
-                      </a>
-                      <!-- grid item frame end -->
-                      <!-- description -->
-                      <div class="art-item-description">
-                        <!-- title -->
-                        <h5 class="mb-15">Project title</h5>
-                        <div class="mb-15">Sit amet, consectetur adipisicing elit. Quas, architecto.</div>
-                        <!-- button -->
-                        <a href="/portfolio-single.html" class="art-link art-color-link art-w-chevron">Read more</a>
-                      </div>
-                      <!-- description end -->
-
-                    </div>
-                    <!-- grid item end -->
-
-                    <!-- grid item -->
-                    <div class="art-grid-item drawings">
-
-                      <!-- grid item frame -->
-                      <a data-fancybox="gallery" href="img/works/original-size/7.jpg" class="art-a art-portfolio-item-frame art-horizontal">
-                        <!-- img -->
-                        <img src="img/works/thumbnail/7.jpg" alt="item">
-                        <!-- zoom icon -->
-                        <span class="art-item-hover"><i class="fas fa-expand"></i></span>
-                      </a>
-                      <!-- grid item frame end -->
-                      <!-- description -->
-                      <div class="art-item-description">
-                        <!-- title -->
-                        <h5 class="mb-15">Project title</h5>
-                        <div class="mb-15">Sit amet, consectetur adipisicing elit. Quas, architecto.</div>
-                        <!-- button -->
-                        <a href="/portfolio-single.html" class="art-link art-color-link art-w-chevron">Read more</a>
-                      </div>
-                      <!-- description end -->
-
-                    </div>
-                    <!-- grid item end -->
-
-                    <!-- grid item -->
-                    <div class="art-grid-item ui">
-
-                      <!-- grid item frame -->
-                      <a data-fancybox="gallery" href="img/works/original-size/8.jpg" class="art-a art-portfolio-item-frame art-horizontal">
-                        <!-- img -->
-                        <img src="img/works/thumbnail/8.jpg" alt="item">
-                        <!-- zoom icon -->
-                        <span class="art-item-hover"><i class="fas fa-expand"></i></span>
-                      </a>
-                      <!-- grid item frame end -->
-                      <!-- description -->
-                      <div class="art-item-description">
-                        <!-- title -->
-                        <h5 class="mb-15">Project title</h5>
-                        <div class="mb-15">Sit amet, consectetur adipisicing elit. Quas, architecto.</div>
-                        <!-- button -->
-                        <a href="/portfolio-single.html" class="art-link art-color-link art-w-chevron">Read more</a>
-                      </div>
-                      <!-- description end -->
-
-                    </div>
-                    <!-- grid item end -->
-
-                  </div>
-
-                </div>
-                <!-- row end -->
-
+                    
               </div>
               <!-- container end -->
 
@@ -260,28 +176,28 @@
                   <!-- col -->
                   <div class="col-6 col-lg-3">
                     <!-- brand -->
-                    <img class="art-brand" src="img/brands/1.png" alt="brand">
+                    <img class="art-brand" src="<?php echo base_url();?>/resources/img/brands/1.png" alt="brand">
                   </div>
                   <!-- col end -->
 
                   <!-- col -->
                   <div class="col-6 col-lg-3">
                     <!-- brand -->
-                    <img class="art-brand" src="img/brands/2.png" alt="brand">
+                    <img class="art-brand" src="<?php echo base_url();?>/resources/img/brands/2.png" alt="brand">
                   </div>
                   <!-- col end -->
 
                   <!-- col -->
                   <div class="col-6 col-lg-3">
                     <!-- brand -->
-                    <img class="art-brand" src="img/brands/3.png" alt="brand">
+                    <img class="art-brand" src="<?php echo base_url();?>/resources/img/brands/3.png" alt="brand">
                   </div>
                   <!-- col end -->
 
                   <!-- col -->
                   <div class="col-6 col-lg-3">
                     <!-- brand -->
-                    <img class="art-brand" src="img/brands/1.png" alt="brand">
+                    <img class="art-brand" src="<?php echo base_url();?>/resources/img/brands/1.png" alt="brand">
                   </div>
                   <!-- col end -->
 

@@ -7,7 +7,7 @@
           <div class="art-curtain"></div>
 
           <!-- top background -->
-          <div class="art-top-bg" style="background-image: url(img/bg.jpg)">
+          <div class="art-top-bg" style="background-image: url(<?php echo base_url();?>/resources/img/bg.jpg)">
             <!-- overlay -->
             <div class="art-top-bg-overlay"></div>
             <!-- overlay end -->
@@ -29,7 +29,7 @@
                   <div class="col-lg-12">
 
                     <!-- banner -->
-                    <div class="art-a art-banner" style="background-image: url(img/bg.jpg)">
+                    <div class="art-a art-banner" style="background-image: url(<?php echo base_url();?>/resources/img/bg.jpg)">
                       <!-- banner back -->
                       <div class="art-banner-back"></div>
                       <!-- banner dec -->
@@ -39,20 +39,20 @@
                         <!-- main title -->
                         <div class="art-banner-title">
                           <!-- title -->
-                          <h1 class="mb-15">Discover my Amazing <br>Art Space!</h1>
+                          <h1 class="mb-15">Discover my Amazing <br>Development Space!</h1>
                           <!-- suptitle -->
                           <div class="art-lg-text art-code mb-25">&lt;<i>code</i>&gt; I build <span class="txt-rotate" data-period="2000"
-                              data-rotate='[ "web interfaces.", "ios and android applications.", "design mocups.", "automation tools." ]'></span>&lt;/<i>code</i>&gt;</div>
+                              data-rotate='[ "web interfaces.", "android applications.", "great software.", "design mocups.", "automation tools." ]'></span>&lt;/<i>code</i>&gt;</div>
                           <div class="art-buttons-frame">
                             <!-- button -->
-                            <a href="#." class="art-btn art-btn-md"><span>Explore now</span></a>
+                            <a href="<?php echo base_url(); ?>portfolio" class="art-btn art-btn-md"><span>Explore now</span></a>
                             <!-- button -->
-                            <a href="#." class="art-link art-white-link art-w-chevron">Hire me</a>
+                            <a href="<?php echo base_url(); ?>contact" class="art-link art-white-link art-w-chevron">Hire me</a>
                           </div>
                         </div>
                         <!-- main title end -->
                         <!-- photo -->
-                        <img src="img/face-2.png" class="art-banner-photo" alt="Your Name">
+                        <img src="<?php echo base_url();?>/resources/img/face-2.png" class="art-banner-photo" alt="Your Name">
                       </div>
                       <!-- banner overlay end -->
                     </div>
@@ -80,7 +80,7 @@
                       <!-- counter -->
                       <div class="art-counter-box">
                         <!-- counter number -->
-                        <span class="art-counter">10</span><span class="art-counter-plus">+</span>
+                        <span class="art-counter">5</span><span class="art-counter-plus">+</span>
                       </div>
                       <!-- counter end -->
                       <!-- title -->
@@ -99,7 +99,7 @@
                       <!-- counter -->
                       <div class="art-counter-box">
                         <!-- counter number -->
-                        <span class="art-counter">143</span>
+                        <span class="art-counter">50</span>
                       </div>
                       <!-- counter end -->
                       <!-- title -->
@@ -118,7 +118,7 @@
                       <!-- counter -->
                       <div class="art-counter-box">
                         <!-- counter number -->
-                        <span class="art-counter">114</span>
+                        <span class="art-counter">30</span><span class="art-counter-plus">+</span>
                       </div>
                       <!-- counter end -->
                       <!-- title -->
@@ -137,7 +137,7 @@
                       <!-- counter -->
                       <div class="art-counter-box">
                         <!-- counter number -->
-                        <span class="art-counter">20</span><span class="art-counter-plus">+</span>
+                        <span class="art-counter">10</span><span class="art-counter-plus">+</span>
                       </div>
                       <!-- counter end -->
                       <!-- title -->
@@ -187,9 +187,9 @@
                         <!-- title -->
                         <h5 class="mb-15">Web Development</h5>
                         <!-- text -->
-                        <div class="mb-15">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus esse commodi deserunt vitae, vero quasi! Veniam quaerat tenetur pariatur doloribus.</div>
+                        <div class="mb-15">Development of responsive websites and custom web based software solutions.</div>
                         <!-- button -->
-                        <div class="art-buttons-frame"><a href="#." class="art-link art-color-link art-w-chevron">Order now</a></div>
+                        <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
                       </div>
                       <!-- service content end -->
                     </div>
@@ -208,9 +208,9 @@
                         <!-- title -->
                         <h5 class="mb-15">UI/UX Design</h5>
                         <!-- text -->
-                        <div class="mb-15">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus esse commodi deserunt vitae, vero quasi! Veniam quaerat tenetur pariatur doloribus.</div>
+                        <div class="mb-15">Design of classic user interfaces ensuring the best user experiences.</div>
                         <!-- button -->
-                        <div class="art-buttons-frame"><a href="#." class="art-link art-color-link art-w-chevron">Order now</a></div>
+                        <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
                       </div>
                       <!-- service content end -->
                     </div>
@@ -227,11 +227,11 @@
                       <!-- service content -->
                       <div class="art-service-ib-content">
                         <!-- title -->
-                        <h5 class="mb-15">Sound Design</h5>
+                        <h5 class="mb-15">Data Analytics & Visualization</h5>
                         <!-- text -->
-                        <div class="mb-15">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus esse commodi deserunt vitae, vero quasi! Veniam quaerat tenetur pariatur doloribus.</div>
+                        <div class="mb-15">Analyze and visualize your organization's data to develop insights that will help you grow your business.</div>
                         <!-- button -->
-                        <div class="art-buttons-frame"><a href="#." class="art-link art-color-link art-w-chevron">Order now</a></div>
+                        <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
                       </div>
                       <!-- service content end -->
                     </div>
@@ -248,11 +248,11 @@
                       <!-- service content -->
                       <div class="art-service-ib-content">
                         <!-- title -->
-                        <h5 class="mb-15">Game Design</h5>
+                        <h5 class="mb-15">DevOps</h5>
                         <!-- text -->
-                        <div class="mb-15">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus esse commodi deserunt vitae, vero quasi! Veniam quaerat tenetur pariatur doloribus.</div>
+                        <div class="mb-15">Develop and maintain your systems and applications to ensure availability, great perfomance and efficiency.</div>
                         <!-- button -->
-                        <div class="art-buttons-frame"><a href="#." class="art-link art-color-link art-w-chevron">Order now</a></div>
+                        <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
                       </div>
                       <!-- service content end -->
                     </div>
@@ -269,11 +269,11 @@
                       <!-- service content -->
                       <div class="art-service-ib-content">
                         <!-- title -->
-                        <h5 class="mb-15">Advertising</h5>
+                        <h5 class="mb-15">Digital Marketing</h5>
                         <!-- text -->
-                        <div class="mb-15">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus esse commodi deserunt vitae, vero quasi! Veniam quaerat tenetur pariatur doloribus.</div>
+                        <div class="mb-15">Improve your business presence online and across various social media platforms to reach more customers.</div>
                         <!-- button -->
-                        <div class="art-buttons-frame"><a href="#." class="art-link art-color-link art-w-chevron">Order now</a></div>
+                        <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
                       </div>
                       <!-- service content end -->
                     </div>
@@ -282,147 +282,26 @@
                   </div>
                   <!-- col end -->
 
-                </div>
-                <!-- row end -->
-
-              </div>
-              <!-- container end -->
-
-              <!-- container -->
-              <div class="container-fluid">
-
-                <!-- row -->
-                <div class="row p-0-0">
-
                   <!-- col -->
-                  <div class="col-lg-12">
+                    <div class="col-lg-4 col-md-6">
 
-                    <!-- section title -->
-                    <div class="art-section-title">
-                      <!-- title frame -->
-                      <div class="art-title-frame">
-                        <!-- title -->
-                        <h4>Price Plans</h4>
-                      </div>
-                      <!-- title frame end -->
-                    </div>
-                    <!-- section title end -->
-
-                  </div>
-                  <!-- col end -->
-
-                  <!-- col -->
-                  <div class="col-lg-4">
-
-                    <!-- price -->
-                    <div class="art-a art-price">
-                      <!-- price body -->
-                      <div class="art-price-body">
-                        <h5 class="mb-30">Starter Price</h5>
-                        <!-- price cost -->
-                        <div class="art-price-cost">
-                          <div class="art-number">FREE<sup>*</sup></div>
+                      <!-- service -->
+                        <div class="art-a art-service-icon-box">
+                          <!-- service content -->
+                            <div class="art-service-ib-content">
+                            <!-- title -->
+                            <h5 class="mb-15">IT Consultancy</h5>
+                              <!-- text -->
+                                <div class="mb-15">Provide professional consultancy services on all matters technology or data to individuals or businesses that want to leverage the power of tech.</div>
+                                  <!-- button -->
+                                  <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
+                                </div>
+                          <!-- service content end -->
                         </div>
-                        <!-- price cost end -->
-                        <!-- price list -->
-                        <ul class="art-price-list">
-                          <!-- list item -->
-                          <li>Ui Design</li>
-                          <!-- list item -->
-                          <li>Web Development</li>
-                          <!-- list item -->
-                          <li class="art-empty-item">Logo design</li>
-                          <!-- list item -->
-                          <li class="art-empty-item">SEO optimization</li>
-                          <!-- list item -->
-                          <li class="art-empty-item">Wordpress integration</li>
-                        </ul>
-                        <!-- price list end -->
-                        <!-- button -->
-                        <a href="#." class="art-link art-color-link art-w-chevron">Order now</a>
-                        <div class="art-asterisk"><sup>*</sup>Free only when ordering paid services</div>
-                      </div>
-                      <!-- price body end -->
+                      <!-- service end -->
+
                     </div>
-                    <!-- price end -->
-
-                  </div>
-                  <!-- grid -->
-
-                  <!-- col -->
-                  <div class="col-lg-4">
-
-                    <!-- price -->
-                    <div class="art-a art-price art-popular-price">
-                      <!-- price body -->
-                      <div class="art-price-body">
-                        <h5 class="mb-30">Hourly payment</h5>
-                        <!-- price cost -->
-                        <div class="art-price-cost">
-                          <div class="art-number"><span>$</span>29<span>h</span></div>
-                        </div>
-                        <!-- price cost end -->
-                        <!-- price list -->
-                        <ul class="art-price-list">
-                          <!-- list item -->
-                          <li>Ui Design</li>
-                          <!-- list item -->
-                          <li>Web Development</li>
-                          <!-- list item -->
-                          <li>Logo design</li>
-                          <!-- list item -->
-                          <li class="art-empty-item">SEO optimization</li>
-                          <!-- list item -->
-                          <li class="art-empty-item">Wordpress integration</li>
-                        </ul>
-                        <!-- price list end -->
-                        <!-- button -->
-                        <a href="#." class="art-link art-color-link art-w-chevron">Order now</a>
-                      </div>
-                      <!-- price body end -->
-                    </div>
-                    <!-- price end -->
-
-                  </div>
                   <!-- col end -->
-
-                  <!-- col -->
-                  <div class="col-lg-4">
-
-                    <!-- price -->
-                    <div class="art-a art-price">
-                      <!-- price body -->
-                      <div class="art-price-body">
-                        <h5 class="mb-30"> Full time</h5>
-                        <!-- price cost -->
-                        <div class="art-price-cost">
-                          <div class="art-number"><span>$</span>2999<span>m</span></div>
-                        </div>
-                        <!-- price cost end -->
-                        <!-- price list -->
-                        <ul class="art-price-list">
-                          <!-- list item -->
-                          <li>Ui Design</li>
-                          <!-- list item -->
-                          <li>Web Development</li>
-                          <!-- list item -->
-                          <li>Logo design</li>
-                          <!-- list item -->
-                          <li>SEO optimization</li>
-                          <!-- list item -->
-                          <li>Wordpress integration</li>
-                        </ul>
-                        <!-- price list end -->
-                        <!-- button -->
-                        <a href="#." class="art-link art-color-link art-w-chevron">Order now</a>
-                      </div>
-                      <!-- price body end -->
-                    </div>
-                    <!-- price end -->
-
-                  </div>
-                  <!-- col end -->
-
                 </div>
                 <!-- row end -->
 
@@ -467,10 +346,10 @@
                             <!-- testimonial body -->
                             <div class="testimonial-body">
                               <!-- photo -->
-                              <img class="art-testimonial-face" src="img/testimonials/face-1.jpg" alt="face">
+                              <img class="art-testimonial-face" src="<?php echo base_url();?>/resources/img/testimonials/face-1.jpg" alt="face">
                               <!-- name -->
-                              <h5>Paul Trueman</h5>
-                              <div class="art-el-suptitle mb-15">Template author</div>
+                              <h5>Douglas Odhiambo</h5>
+                              <div class="art-el-suptitle mb-15">CEO, FINSYS GROUP LIMITED</div>
                               <!-- text -->
                               <div class="mb-15">Working with Artur has been a pleasure. Better yet - I alerted them of a minor issue before going to sleep. The issue was fixed the next morning. I couldn't ask for better support. Thank you Artur!
                                 This is easily a 5 star freelancer.</div>
@@ -508,10 +387,10 @@
                             <!-- testimonial body -->
                             <div class="testimonial-body">
                               <!-- photo -->
-                              <img class="art-testimonial-face" src="img/testimonials/face-2.jpg" alt="face">
+                              <img class="art-testimonial-face" src="<?php echo base_url();?>/resources/img/testimonials/face-2.jpg" alt="face">
                               <!-- name -->
-                              <h5>Paul Trueman</h5>
-                              <div class="art-el-suptitle mb-15">Template author</div>
+                              <h5>CYRUS MUCHIRI</h5>
+                              <div class="art-el-suptitle mb-15">Software Engineer Consultant, CARREL TECHNOLOGIES LIMITED</div>
                               <!-- text -->
                               <div class="mb-15">Working with Artur has been a pleasure. Better yet - I alerted them of a minor issue before going to sleep. The issue was fixed the next morning. I couldn't ask for better support. Thank you Artur!
                                 This is easily a 5 star freelancer.</div>
@@ -549,7 +428,7 @@
                             <!-- testimonial body -->
                             <div class="testimonial-body">
                               <!-- photo -->
-                              <img class="art-testimonial-face" src="img/testimonials/face-3.jpg" alt="face">
+                              <img class="art-testimonial-face" src="<?php echo base_url();?>/resources/img/testimonials/face-3.jpg" alt="face">
                               <!-- name -->
                               <h5>Paul Trueman</h5>
                               <div class="art-el-suptitle mb-15">Template author</div>
@@ -590,7 +469,7 @@
                             <!-- testimonial body -->
                             <div class="testimonial-body">
                               <!-- photo -->
-                              <img class="art-testimonial-face" src="img/testimonials/face-4.jpg" alt="face">
+                              <img class="art-testimonial-face" src="<?php echo base_url();?>/resources/img/testimonials/face-4.jpg" alt="face">
                               <!-- name -->
                               <h5>Paul Trueman</h5>
                               <div class="art-el-suptitle mb-15">Template author</div>
@@ -696,14 +575,6 @@
                         <div class="art-filter">
                           <!-- filter link -->
                           <a href="#" data-filter="*" class="art-link art-current">All Categories</a>
-                          <!-- filter link -->
-                          <a href="#" data-filter=".webTemplates" class="art-link">Web Templates</a>
-                          <!-- filter link -->
-                          <a href="#" data-filter=".logos" class="art-link">Logos</a>
-                          <!-- filter link -->
-                          <a href="#" data-filter=".drawings" class="art-link">Drawings</a>
-                          <!-- filter link -->
-                          <a href="#" data-filter=".ui" class="art-link">UI Elements</a>
                         </div>
                         <!-- filter end -->
                       </div>
@@ -719,9 +590,9 @@
                     <!-- grid item -->
                     <div class="art-grid-item webTemplates">
                       <!-- grid item frame -->
-                      <a data-fancybox="gallery" href="img/works/original-size/1.jpg" class="art-a art-portfolio-item-frame art-horizontal">
+                      <a data-fancybox="gallery" href="<?php echo base_url();?>/resources/img/works/original-size/1.jpg" class="art-a art-portfolio-item-frame art-horizontal">
                         <!-- img -->
-                        <img src="img/works/thumbnail/1.jpg" alt="item">
+                        <img src="<?php echo base_url();?>/resources/img/works/thumbnail/1.jpg" alt="item">
                         <!-- zoom icon -->
                         <span class="art-item-hover"><i class="fas fa-expand"></i></span>
                       </a>
@@ -731,7 +602,7 @@
                         <!-- title -->
                         <h5 class="mb-15">Project title</h5>
                         <!-- button -->
-                        <a href="#." class="art-link art-color-link art-w-chevron">Read more</a>
+                        <a href="https://www.callmetron.com/" class="art-link art-color-link art-w-chevron">Read more</a>
                       </div>
                       <!-- description end -->
 
@@ -741,9 +612,9 @@
                     <!-- grid item -->
                     <div class="art-grid-item logos">
                       <!-- grid item frame -->
-                      <a data-fancybox="gallery" href="img/works/original-size/2.jpg" class="art-a art-portfolio-item-frame art-vertical">
+                      <a data-fancybox="gallery" href="<?php echo base_url();?>/resources/img/works/original-size/2.jpg" class="art-a art-portfolio-item-frame art-vertical">
                         <!-- img -->
-                        <img src="img/works/thumbnail/2.jpg" alt="item">
+                        <img src="<?php echo base_url();?>/resources/img/works/thumbnail/2.jpg" alt="item">
                         <!-- zoom icon -->
                         <span class="art-item-hover"><i class="fas fa-expand"></i></span>
                       </a>
@@ -754,7 +625,7 @@
                         <h5 class="mb-15">Project title</h5>
                         <div class="mb-15">Sit amet, consectetur adipisicing elit. Quas, architecto.</div>
                         <!-- button -->
-                        <a href="#." class="art-link art-color-link art-w-chevron">Read more</a>
+                        <a href="https://finsys-group.com/" class="art-link art-color-link art-w-chevron">Read more</a>
                       </div>
                       <!-- description end -->
 
@@ -764,9 +635,9 @@
                     <!-- grid item -->
                     <div class="art-grid-item drawings">
                       <!-- grid item frame -->
-                      <a data-fancybox="gallery" href="img/works/original-size/3.jpg" class="art-a art-portfolio-item-frame art-square">
+                      <a data-fancybox="gallery" href="<?php echo base_url();?>/resources/img/works/original-size/3.jpg" class="art-a art-portfolio-item-frame art-square">
                         <!-- img -->
-                        <img src="img/works/thumbnail/3.jpg" alt="item">
+                        <img src="<?php echo base_url();?>/resources/img/works/thumbnail/3.jpg" alt="item">
                         <!-- zoom icon -->
                         <span class="art-item-hover"><i class="fas fa-expand"></i></span>
                       </a>
@@ -777,7 +648,7 @@
                         <h5 class="mb-15">Project title</h5>
                         <div class="mb-15">Sit amet, consectetur adipisicing elit. Quas, architecto.</div>
                         <!-- button -->
-                        <a href="#." class="art-link art-color-link art-w-chevron">Read more</a>
+                        <a href="https://finsys-group.com/" class="art-link art-color-link art-w-chevron">Read more</a>
                       </div>
                       <!-- description end -->
 
@@ -787,9 +658,9 @@
                     <!-- grid item -->
                     <div class="art-grid-item ui">
                       <!-- grid item frame -->
-                      <a data-fancybox="gallery" href="img/works/original-size/4.jpg" class="art-a art-portfolio-item-frame art-vertical">
+                      <a data-fancybox="gallery" href="<?php echo base_url();?>/resources/img/works/original-size/4.jpg" class="art-a art-portfolio-item-frame art-vertical">
                         <!-- img -->
-                        <img src="img/works/thumbnail/4.jpg" alt="item">
+                        <img src="<?php echo base_url();?>/resources/img/works/thumbnail/4.jpg" alt="item">
                         <!-- zoom icon -->
                         <span class="art-item-hover"><i class="fas fa-expand"></i></span>
                       </a>
@@ -800,7 +671,7 @@
                         <h5 class="mb-15">Project title</h5>
                         <div class="mb-15">Sit amet, consectetur adipisicing elit. Quas, architecto.</div>
                         <!-- button -->
-                        <a href="#." class="art-link art-color-link art-w-chevron">Read more</a>
+                        <a href="https://demo.callmetron.com/" class="art-link art-color-link art-w-chevron">Read more</a>
                       </div>
                       <!-- description end -->
 
@@ -810,9 +681,9 @@
                     <!-- grid item -->
                     <div class="art-grid-item webTemplates">
                       <!-- grid item frame -->
-                      <a data-fancybox="gallery" href="img/works/original-size/5.jpg" class="art-a art-portfolio-item-frame art-square">
+                      <a data-fancybox="gallery" href="<?php echo base_url();?>/resources/img/works/original-size/5.jpg" class="art-a art-portfolio-item-frame art-square">
                         <!-- img -->
-                        <img src="img/works/thumbnail/5.jpg" alt="item">
+                        <img src="<?php echo base_url();?>/resources/img/works/thumbnail/5.jpg" alt="item">
                         <!-- zoom icon -->
                         <span class="art-item-hover"><i class="fas fa-expand"></i></span>
                       </a>
@@ -823,81 +694,14 @@
                         <h5 class="mb-15">Project title</h5>
                         <div class="mb-15">Sit amet, consectetur adipisicing elit. Quas, architecto.</div>
                         <!-- button -->
-                        <a href="#." class="art-link art-color-link art-w-chevron">Read more</a>
+                        <a href="https://creditcheck.co.ke/" class="art-link art-color-link art-w-chevron">Read more</a>
                       </div>
                       <!-- description end -->
 
                     </div>
                     <!-- grid item end -->
 
-                    <!-- grid item -->
-                    <div class="art-grid-item logos">
-                      <!-- grid item frame -->
-                      <a data-fancybox="gallery" href="img/works/original-size/6.jpg" class="art-a art-portfolio-item-frame art-vertical">
-                        <!-- img -->
-                        <img src="img/works/thumbnail/6.jpg" alt="item">
-                        <!-- zoom icon -->
-                        <span class="art-item-hover"><i class="fas fa-expand"></i></span>
-                      </a>
-                      <!-- grid item frame end -->
-                      <!-- description -->
-                      <div class="art-item-description">
-                        <!-- title -->
-                        <h5 class="mb-15">Project title</h5>
-                        <div class="mb-15">Sit amet, consectetur adipisicing elit. Quas, architecto.</div>
-                        <!-- button -->
-                        <a href="#." class="art-link art-color-link art-w-chevron">Read more</a>
-                      </div>
-                      <!-- description end -->
-
-                    </div>
-                    <!-- grid item end -->
-
-                    <!-- grid item -->
-                    <div class="art-grid-item drawings">
-                      <!-- grid item frame -->
-                      <a data-fancybox="gallery" href="img/works/original-size/7.jpg" class="art-a art-portfolio-item-frame art-square">
-                        <!-- img -->
-                        <img src="img/works/thumbnail/7.jpg" alt="item">
-                        <!-- zoom icon -->
-                        <span class="art-item-hover"><i class="fas fa-expand"></i></span>
-                      </a>
-                      <!-- grid item frame end -->
-                      <!-- description -->
-                      <div class="art-item-description">
-                        <!-- title -->
-                        <h5 class="mb-15">Project title</h5>
-                        <div class="mb-15">Sit amet, consectetur adipisicing elit. Quas, architecto.</div>
-                        <!-- button -->
-                        <a href="#." class="art-link art-color-link art-w-chevron">Read more</a>
-                      </div>
-                      <!-- description end -->
-
-                    </div>
-                    <!-- grid item end -->
-
-                    <!-- grid item -->
-                    <div class="art-grid-item ui">
-                      <!-- grid item frame -->
-                      <a data-fancybox="gallery" href="img/works/original-size/8.jpg" class="art-a art-portfolio-item-frame art-horizontal">
-                        <!-- img -->
-                        <img src="img/works/thumbnail/8.jpg" alt="item">
-                        <!-- zoom icon -->
-                        <span class="art-item-hover"><i class="fas fa-expand"></i></span>
-                      </a>
-                      <!-- grid item frame end -->
-                      <!-- description -->
-                      <div class="art-item-description">
-                        <!-- title -->
-                        <h5 class="mb-15">Project title</h5>
-                        <!-- button -->
-                        <a href="#." class="art-link art-color-link art-w-chevron">Read more</a>
-                      </div>
-                      <!-- description end -->
-
-                    </div>
-                    <!-- grid item end -->
-
+                    
                   </div>
 
                 </div>
@@ -944,7 +748,7 @@
                           </div>
 
                           <p>Dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis qui ut.</p>
-                          <a data-fancybox="diplome" href="files/certificate.jpg" class="art-link art-color-link art-w-chevron">Diplome</a>
+                          <a data-fancybox="diplome" href="<?php echo base_url();?>/resources/files/certificate.jpg" class="art-link art-color-link art-w-chevron">Diplome</a>
                         </div>
                       </div>
 
@@ -981,7 +785,7 @@
                             </div>
                           </div>
                           <p>Dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis qui ut.</p>
-                          <a data-fancybox="diplome" href="files/certificate.jpg" class="art-link art-color-link art-w-chevron">Licence</a>
+                          <a data-fancybox="diplome" href="<?php echo base_url();?>/resources/files/certificate.jpg" class="art-link art-color-link art-w-chevron">Licence</a>
                         </div>
 
                       </div>
@@ -1001,7 +805,7 @@
                             </div>
                           </div>
                           <p>Ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum.</p>
-                          <a data-fancybox="diplome" href="files/certificate.jpg" class="art-link art-color-link art-w-chevron">Certificate</a>
+                          <a data-fancybox="diplome" href="<?php echo base_url();?>/resources/files/certificate.jpg" class="art-link art-color-link art-w-chevron">Certificate</a>
                         </div>
 
                       </div>
@@ -1072,7 +876,7 @@
                             <!-- testimonial body -->
                             <div class="testimonial-body">
                               <!-- photo -->
-                              <img class="art-testimonial-face" src="img/testimonials/face-3.jpg" alt="face">
+                              <img class="art-testimonial-face" src="<?php echo base_url();?>/resources/img/testimonials/face-3.jpg" alt="face">
                               <!-- name -->
                               <h5>Paul Trueman</h5>
                               <div class="art-el-suptitle mb-15">Template author</div>
@@ -1136,7 +940,7 @@
                             <!-- testimonial body -->
                             <div class="testimonial-body">
                               <!-- photo -->
-                              <img class="art-testimonial-face" src="img/testimonials/face-4.jpg" alt="face">
+                              <img class="art-testimonial-face" src="<?php echo base_url();?>/resources/img/testimonials/face-4.jpg" alt="face">
                               <!-- name -->
                               <h5>Paul Trueman</h5>
                               <div class="art-el-suptitle mb-15">Template author</div>
@@ -1197,7 +1001,7 @@
                             <!-- testimonial body -->
                             <div class="testimonial-body">
                               <!-- photo -->
-                              <img class="art-testimonial-face" src="img/testimonials/face-2.jpg" alt="face">
+                              <img class="art-testimonial-face" src="<?php echo base_url();?>/resources/img/testimonials/face-2.jpg" alt="face">
                               <!-- name -->
                               <h5>Paul Trueman</h5>
                               <div class="art-el-suptitle mb-15">Template author</div>
@@ -1234,226 +1038,6 @@
 
                     </div>
                     <!-- timeline end -->
-
-                  </div>
-                  <!-- col end -->
-
-                </div>
-                <!-- row end -->
-
-              </div>
-              <!-- container end -->
-
-              <!-- container -->
-              <div class="container-fluid">
-
-                <!-- row -->
-                <div class="row">
-
-                  <!-- col -->
-                  <div class="col-lg-12">
-
-                    <!-- section title -->
-                    <div class="art-section-title">
-                      <!-- title frame -->
-                      <div class="art-title-frame">
-                        <!-- title -->
-                        <h4>Newsletter</h4>
-                      </div>
-                      <!-- title frame end -->
-                    </div>
-                    <!-- section title end -->
-
-                  </div>
-                  <!-- col end -->
-
-                  <!-- col -->
-                  <div class="col-lg-12">
-
-                    <!-- slider container -->
-                    <div class="swiper-container art-blog-slider" style="overflow: visible">
-                      <!-- slider wrapper -->
-                      <div class="swiper-wrapper">
-                        <!-- slide -->
-                        <div class="swiper-slide">
-
-                          <!-- blog post card -->
-                          <div class="art-a art-blog-card">
-                            <!-- post cover -->
-                            <a href="#." class="art-port-cover">
-                              <!-- img -->
-                              <img src="img/blog/1.jpg" alt="blog post">
-                            </a>
-                            <!-- post cover end -->
-                            <!-- post description -->
-                            <div class="art-post-description">
-                              <!-- title -->
-                              <a href="#.">
-                                <h5 class="mb-15">Blog post title</h5>
-                              </a>
-                              <!-- text -->
-                              <div class="mb-15">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet!</div>
-                              <!-- link -->
-                              <a href="#." class="art-link art-color-link art-w-chevron">Read more</a>
-                            </div>
-                            <!-- post description end -->
-                          </div>
-                          <!-- blog post card end -->
-
-                        </div>
-                        <!-- slide end -->
-                        <!-- slide -->
-                        <div class="swiper-slide">
-
-                          <!-- blog post card -->
-                          <div class="art-a art-blog-card">
-                            <!-- post cover -->
-                            <a href="#." class="art-port-cover">
-                              <!-- img -->
-                              <img src="img/blog/2.jpg" alt="blog post">
-                            </a>
-                            <!-- post cover end -->
-                            <!-- post description -->
-                            <div class="art-post-description">
-                              <!-- title -->
-                              <a href="#.">
-                                <h5 class="mb-15">Blog post title</h5>
-                              </a>
-                              <!-- text -->
-                              <div class="mb-15">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet!</div>
-                              <!-- link -->
-                              <a href="#." class="art-link art-color-link art-w-chevron">Read more</a>
-                            </div>
-                            <!-- post description end -->
-                          </div>
-                          <!-- blog post card end -->
-
-                        </div>
-                        <!-- slide end -->
-                        <!-- slide -->
-                        <div class="swiper-slide">
-
-                          <!-- blog post card -->
-                          <div class="art-a art-blog-card">
-                            <!-- post cover -->
-                            <a href="#." class="art-port-cover">
-                              <!-- img -->
-                              <img src="img/blog/3.jpg" alt="blog post">
-                            </a>
-                            <!-- post cover end -->
-                            <!-- post description -->
-                            <div class="art-post-description">
-                              <!-- title -->
-                              <a href="#.">
-                                <h5 class="mb-15">Blog post title</h5>
-                              </a>
-                              <!-- text -->
-                              <div class="mb-15">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet!</div>
-                              <!-- link -->
-                              <a href="#." class="art-link art-color-link art-w-chevron">Read more</a>
-                            </div>
-                            <!-- post description end -->
-                          </div>
-                          <!-- blog post card end -->
-
-                        </div>
-                        <!-- slide end -->
-                        <!-- slide -->
-                        <div class="swiper-slide">
-
-                          <!-- blog post card -->
-                          <div class="art-a art-blog-card">
-                            <!-- post cover -->
-                            <a href="#." class="art-port-cover">
-                              <!-- img -->
-                              <img src="img/blog/4.jpg" alt="blog post">
-                            </a>
-                            <!-- post cover end -->
-                            <!-- post description -->
-                            <div class="art-post-description">
-                              <!-- title -->
-                              <a href="#.">
-                                <h5 class="mb-15">Blog post title</h5>
-                              </a>
-                              <!-- text -->
-                              <div class="mb-15">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet!</div>
-                              <!-- link -->
-                              <a href="#." class="art-link art-color-link art-w-chevron">Read more</a>
-                            </div>
-                            <!-- post description end -->
-                          </div>
-                          <!-- blog post card end -->
-
-                        </div>
-                        <!-- slide end -->
-                        <!-- slide -->
-                        <div class="swiper-slide">
-
-                          <!-- blog post card -->
-                          <div class="art-a art-blog-card">
-                            <!-- post cover -->
-                            <a href="#." class="art-port-cover">
-                              <!-- img -->
-                              <img src="img/blog/5.jpg" alt="blog post">
-                            </a>
-                            <!-- post cover end -->
-                            <!-- post description -->
-                            <div class="art-post-description">
-                              <!-- title -->
-                              <a href="#.">
-                                <h5 class="mb-15">Blog post title</h5>
-                              </a>
-                              <!-- text -->
-                              <div class="mb-15">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet!</div>
-                              <!-- link -->
-                              <a href="#." class="art-link art-color-link art-w-chevron">Read more</a>
-                            </div>
-                            <!-- post description end -->
-                          </div>
-                          <!-- blog post card end -->
-
-                        </div>
-                        <!-- slide end -->
-                      </div>
-                      <!-- slider wrapper end -->
-                    </div>
-                    <!-- slider container end -->
-
-                  </div>
-                  <!-- col end -->
-
-                  <!-- col -->
-                  <div class="col-lg-12">
-
-                    <!-- slider navigation -->
-                    <div class="art-slider-navigation">
-
-                      <!-- left side -->
-                      <div class="art-sn-left">
-
-                        <!-- slider pagination -->
-                        <div class="swiper-pagination"></div>
-
-                      </div>
-                      <!-- left side end -->
-
-                      <!-- right side -->
-                      <div class="art-sn-right">
-
-                        <!-- slider navigation -->
-                        <div class="art-slider-nav-frame">
-                          <!-- prev -->
-                          <div class="art-slider-nav art-blog-swiper-prev"><i class="fas fa-chevron-left"></i></div>
-                          <!-- next -->
-                          <div class="art-slider-nav art-blog-swiper-next"><i class="fas fa-chevron-right"></i></div>
-                        </div>
-                        <!-- slider navigation -->
-
-                      </div>
-                      <!-- right side end -->
-
-                    </div>
-                    <!-- slider navigation end -->
 
                   </div>
                   <!-- col end -->
@@ -1625,28 +1209,28 @@
                   <!-- col -->
                   <div class="col-6 col-lg-3">
                     <!-- brand -->
-                    <img class="art-brand" src="img/brands/1.png" alt="brand">
+                    <img class="art-brand" src="<?php echo base_url();?>/resources/img/brands/1.png" alt="brand">
                   </div>
                   <!-- col end -->
 
                   <!-- col -->
                   <div class="col-6 col-lg-3">
                     <!-- brand -->
-                    <img class="art-brand" src="img/brands/2.png" alt="brand">
+                    <img class="art-brand" src="<?php echo base_url();?>/resources/img/brands/2.png" alt="brand">
                   </div>
                   <!-- col end -->
 
                   <!-- col -->
                   <div class="col-6 col-lg-3">
                     <!-- brand -->
-                    <img class="art-brand" src="img/brands/3.png" alt="brand">
+                    <img class="art-brand" src="<?php echo base_url();?>/resources/img/brands/3.png" alt="brand">
                   </div>
                   <!-- col end -->
 
                   <!-- col -->
                   <div class="col-6 col-lg-3">
                     <!-- brand -->
-                    <img class="art-brand" src="img/brands/1.png" alt="brand">
+                    <img class="art-brand" src="<?php echo base_url();?>/resources/img/brands/1.png" alt="brand">
                   </div>
                   <!-- col end -->
 
