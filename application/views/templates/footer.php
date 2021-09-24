@@ -66,19 +66,7 @@
                   <!-- menu item -->
                   <li class="menu-item"><a href="<?php echo base_url(); ?>contact">Contact</a></li>
                   <!-- menu item -->
-                  <li class="menu-item menu-item-has-children">
-                    <a href="#.">Blog</a>
-                    <!-- sub menu -->
-                    <ul class="sub-menu">
-                      <!-- lvl 2 nav link -->
-                      <li class="menu-item"><a href="/blog-2-col.html">2 column</a></li>
-                      <!-- lvl 2 nav link -->
-                      <li class="menu-item"><a href="/blog-3-col.html">3 column</a></li>
-                      <!-- lvl 2 nav link -->
-                      <li class="menu-item"><a href="/blog-post.html">Publication</a></li>
-                    </ul>
-                    <!-- sub menu end -->
-                  </li>
+                 
                   <!-- menu item -->
                   <li class="menu-item"><a href="<?php echo base_url(); ?>onepage" target="_blank">Onepage</a></li>
                 </ul>
