@@ -92,6 +92,9 @@
                           <li>
                             <h6>Skype:</h6><span><a href="skype:mwauragitonga12?chat" target="_blank">mwauragitonga12</a></span>
                           </li>
+                          <li>
+                            <h6>Twitter:</h6><span><a href="https://twitter.com/__Gitonga?t=bxYcBRnlP7cZ1iOL9dLJUg&s=09" target="_blank">@__Gitonga</a></span>
+                          </li>
                         </ul>
                       </div>
                     </div>

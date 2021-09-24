@@ -88,11 +88,11 @@
                 <ul>
                   <!-- country -->
                   <li>
-                    <h6>Residence:</h6><span>Kenya</span>
+                    <h6>CISCO Certified DevNet Associate</h6>
                   </li>
                   <!-- city -->
                   <li>
-                    <h6>City:</h6><span>Nairobi</span>
+                    <h6>CISCO Certified DevNet Specialist</h6>
                   </li>
                 </ul>
               </div>
@@ -428,6 +428,8 @@
                <a href="tel:+254725807288" target="_blank"><i class="fas fa-phone"></i></a>
                 <!-- social link -->
               <a href="mailto:info@mwauragitonga.com" target="_blank"><i class="fas fa-envelope"></i></a>
+              <!-- social link -->
+              <a href="https://twitter.com/__Gitonga?t=bxYcBRnlP7cZ1iOL9dLJUg&s=09" target="_blank"><i class="fab fa-twitter"></i></a>
               <!-- social link -->
               <a href="https://www.linkedin.com/in/mwaura-kelvin-gitonga-3a3b07171/" target="_blank"><i class="fab fa-linkedin"></i></a>
               <!-- social link -->
