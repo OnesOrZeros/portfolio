@@ -26,4 +26,24 @@ class Home extends CI_Controller {
 	{
 		$this->load->view('contact');
 	}
+
+	public function sendMail()
+	{
+		 //Validate form data
+		 $this->form_validation->set_rules('name','Name', 'required');
+		 $this->form_validation->set_rules('email','Email', 'required');
+		 $this->form_validation->set_rules('message','Message', 'required');
+		 $this->form_validation->set_error_delimiters('<div class="text-danger">', '</div>');
+
+		 if($this->form_validation->run() === FALSE){
+			 //If form is not valid
+			 $this->load->view('contact');
+		 }else{
+			 //If form is valid
+			 $this->contact_model->add_contact();
+
+			 redirect('home');
+		 } 
+		
+	}
 }

@@ -20,7 +20,7 @@
   <!-- main css -->
   <link rel="stylesheet" href="<?php echo base_url();?>/resources/css/style.css">
 
-  <title>Arter</title>
+  <title>Portfolio</title>
 </head>
 
 <body>
@@ -70,9 +70,12 @@
               </div>
               <!-- avatar end -->
               <!-- name -->
-              <h5 class="art-name mb-10"><a href="/home.html">Artur Carter</a></h5>
+              <h5 class="art-name mb-10"><a href="/home.html">Mwaura Kelvin Gitonga</a></h5>
               <!-- post -->
-              <div class="art-sm-text">Front-end Deweloper <br>Ui/UX Designer, </div>
+              <div class="art-sm-text">Full Stack Deweloper </br> 
+                        <?php $dob='2016-01-01';
+                        $diff = (date('Y') - date('Y',strtotime($dob)));
+                        echo $diff; ?> Years Coding Experience</div>
             </div>
             <!-- info bar header end -->
 
@@ -85,15 +88,11 @@
                 <ul>
                   <!-- country -->
                   <li>
-                    <h6>Residence:</h6><span>Canada</span>
+                    <h6>Residence:</h6><span>Kenya</span>
                   </li>
                   <!-- city -->
                   <li>
-                    <h6>City:</h6><span>Toronto</span>
-                  </li>
-                  <!-- age -->
-                  <li>
-                    <h6>Age:</h6><span>26</span>
+                    <h6>City:</h6><span>Nairobi</span>
                   </li>
                 </ul>
               </div>
@@ -109,7 +108,7 @@
                 <div class="art-lang-skills-item">
                   <div id="circleprog1" class="art-cirkle-progress"></div>
                   <!-- title -->
-                  <h6>French</h6>
+                  <h6>Swahili</h6>
                 </div>
                 <!-- skill end -->
 
@@ -118,14 +117,6 @@
                   <div id="circleprog2" class="art-cirkle-progress"></div>
                   <!-- title -->
                   <h6>English</h6>
-                </div>
-                <!-- skill end -->
-
-                <!-- skill -->
-                <div class="art-lang-skills-item">
-                  <div id="circleprog3" class="art-cirkle-progress"></div>
-                  <!-- title -->
-                  <h6>Spanish</h6>
                 </div>
                 <!-- skill end -->
 
@@ -172,7 +163,7 @@
                 <div class="art-hard-skills-item">
                   <div class="art-skill-heading">
                     <!-- title -->
-                    <h6>Js</h6>
+                    <h6>Bootstrap</h6>
                   </div>
                   <!-- progressbar frame -->
                   <div class="art-line-progress">
@@ -187,7 +178,7 @@
                 <div class="art-hard-skills-item">
                   <div class="art-skill-heading">
                     <!-- title -->
-                    <h6>PHP</h6>
+                    <h6>Js</h6>
                   </div>
                   <!-- progressbar frame -->
                   <div class="art-line-progress">
@@ -202,7 +193,7 @@
                 <div class="art-hard-skills-item">
                   <div class="art-skill-heading">
                     <!-- title -->
-                    <h6>Wordpress</h6>
+                    <h6>PHP</h6>
                   </div>
                   <!-- progressbar frame -->
                   <div class="art-line-progress">
@@ -213,6 +204,188 @@
                 </div>
                 <!-- skill end -->
 
+                     <!-- skill -->
+                     <div class="art-hard-skills-item">
+                  <div class="art-skill-heading">
+                    <!-- title -->
+                    <h6>Android</h6>
+                  </div>
+                  <!-- progressbar frame -->
+                  <div class="art-line-progress">
+                    <!-- progressbar -->
+                    <div id="lineprog6"></div>
+                  </div>
+                  <!-- progressbar frame end -->
+                </div>
+                <!-- skill end -->
+
+                <!-- skill -->
+                <div class="art-hard-skills-item">
+                  <div class="art-skill-heading">
+                    <!-- title -->
+                    <h6>Flutter</h6>
+                  </div>
+                  <!-- progressbar frame -->
+                  <div class="art-line-progress">
+                    <!-- progressbar -->
+                    <div id="lineprog7"></div>
+                  </div>
+                  <!-- progressbar frame end -->
+                </div>
+                <!-- skill end -->
+
+                <!-- skill -->
+                <div class="art-hard-skills-item">
+                  <div class="art-skill-heading">
+                    <!-- title -->
+                    <h6>Java</h6>
+                  </div>
+                  <!-- progressbar frame -->
+                  <div class="art-line-progress">
+                    <!-- progressbar -->
+                    <div id="lineprog8"></div>
+                  </div>
+                  <!-- progressbar frame end -->
+                </div>
+                <!-- skill end -->
+
+                <!-- skill -->
+                <div class="art-hard-skills-item">
+                  <div class="art-skill-heading">
+                    <!-- title -->
+                    <h6>Python</h6>
+                  </div>
+                  <!-- progressbar frame -->
+                  <div class="art-line-progress">
+                    <!-- progressbar -->
+                    <div id="lineprog9"></div>
+                  </div>
+                  <!-- progressbar frame end -->
+                </div>
+                <!-- skill end -->
+
+                <!-- skill -->
+                <div class="art-hard-skills-item">
+                  <div class="art-skill-heading">
+                    <!-- title -->
+                    <h6>PostgreSQL</h6>
+                  </div>
+                  <!-- progressbar frame -->
+                  <div class="art-line-progress">
+                    <!-- progressbar -->
+                    <div id="lineprog10"></div>
+                  </div>
+                  <!-- progressbar frame end -->
+                </div>
+                <!-- skill end -->
+
+                     <!-- skill -->
+                     <div class="art-hard-skills-item">
+                  <div class="art-skill-heading">
+                    <!-- title -->
+                    <h6>SQL Server</h6>
+                  </div>
+                  <!-- progressbar frame -->
+                  <div class="art-line-progress">
+                    <!-- progressbar -->
+                    <div id="lineprog11"></div>
+                  </div>
+                  <!-- progressbar frame end -->
+                </div>
+                <!-- skill end -->
+
+                <!-- skill -->
+                <div class="art-hard-skills-item">
+                  <div class="art-skill-heading">
+                    <!-- title -->
+                    <h6>MySql</h6>
+                  </div>
+                  <!-- progressbar frame -->
+                  <div class="art-line-progress">
+                    <!-- progressbar -->
+                    <div id="lineprog12"></div>
+                  </div>
+                  <!-- progressbar frame end -->
+                </div>
+                <!-- skill end -->
+
+                <!-- skill -->
+                <div class="art-hard-skills-item">
+                  <div class="art-skill-heading">
+                    <!-- title -->
+                    <h6>JQuery</h6>
+                  </div>
+                  <!-- progressbar frame -->
+                  <div class="art-line-progress">
+                    <!-- progressbar -->
+                    <div id="lineprog13"></div>
+                  </div>
+                  <!-- progressbar frame end -->
+                </div>
+                <!-- skill end -->
+
+                <!-- skill -->
+                <div class="art-hard-skills-item">
+                  <div class="art-skill-heading">
+                    <!-- title -->
+                    <h6>Jupyter</h6>
+                  </div>
+                  <!-- progressbar frame -->
+                  <div class="art-line-progress">
+                    <!-- progressbar -->
+                    <div id="lineprog14"></div>
+                  </div>
+                  <!-- progressbar frame end -->
+                </div>
+                <!-- skill end -->
+
+                <!-- skill -->
+                <div class="art-hard-skills-item">
+                  <div class="art-skill-heading">
+                    <!-- title -->
+                    <h6>Native JS</h6>
+                  </div>
+                  <!-- progressbar frame -->
+                  <div class="art-line-progress">
+                    <!-- progressbar -->
+                    <div id="lineprog15"></div>
+                  </div>
+                  <!-- progressbar frame end -->
+                </div>
+                <!-- skill end -->
+
+                 <!-- skill -->
+                 <div class="art-hard-skills-item">
+                  <div class="art-skill-heading">
+                    <!-- title -->
+                    <h6>Vue & React </h6>
+                  </div>
+                  <!-- progressbar frame -->
+                  <div class="art-line-progress">
+                    <!-- progressbar -->
+                    <div id="lineprog16"></div>
+                  </div>
+                  <!-- progressbar frame end -->
+                </div>
+                <!-- skill end -->
+
+                 <!-- skill -->
+                 <div class="art-hard-skills-item">
+                  <div class="art-skill-heading">
+                    <!-- title -->
+                    <h6>Red Hat</h6>
+                  </div>
+                  <!-- progressbar frame -->
+                  <div class="art-line-progress">
+                    <!-- progressbar -->
+                    <div id="lineprog17"></div>
+                  </div>
+                  <!-- progressbar frame end -->
+                </div>
+                <!-- skill end -->
+
+              
+
               </div>
               <!-- language skills end -->
 
@@ -222,11 +395,13 @@
               <!-- knowledge list -->
               <ul class="art-knowledge-list p-15-0">
                 <!-- list item -->
-                <li>Bootstrap, Materialize</li>
+                <li>DevOps</li>
                 <!-- list item -->
-                <li>Stylus, Sass, Less</li>
+                <li>Networking and Security</li>
                 <!-- list item -->
-                <li>Gulp, Webpack, Grunt</li>
+                <li>IT Support</li>
+                <!-- list item -->
+                <li>Maintenance</li>
                 <!-- list item -->
                 <li>GIT knowledge</li>
               </ul>
@@ -239,7 +414,7 @@
               <div class="art-links-frame p-15-15">
 
                 <!-- download cv button -->
-                <a href="<?php echo base_url();?>/resources/files/cv.txt" class="art-link" download>Download cv <i class="fas fa-download"></i></a>
+                <a href="<?php echo base_url();?>/resources/files/cv.pdf" class="art-link" download>Download cv <i class="fas fa-download"></i></a>
 
               </div>
               <!-- links frame end -->
@@ -249,16 +424,14 @@
 
             <!-- sidebar social -->
             <div class="art-ls-social">
+               <!-- social link -->
+               <a href="tel:+254725807288" target="_blank"><i class="fas fa-phone"></i></a>
+                <!-- social link -->
+              <a href="mailto:info@mwauragitonga.com" target="_blank"><i class="fas fa-envelope"></i></a>
               <!-- social link -->
-              <a href="#." target="_blank"><i class="far fa-circle"></i></a>
+              <a href="https://www.linkedin.com/in/mwaura-kelvin-gitonga-3a3b07171/" target="_blank"><i class="fab fa-linkedin"></i></a>
               <!-- social link -->
-              <a href="#." target="_blank"><i class="far fa-circle"></i></a>
-              <!-- social link -->
-              <a href="#." target="_blank"><i class="far fa-circle"></i></a>
-              <!-- social link -->
-              <a href="#." target="_blank"><i class="far fa-circle"></i></a>
-              <!-- social link -->
-              <a href="#." target="_blank"><i class="far fa-circle"></i></a>
+              <a href="https://github.com/mwauragitonga" target="_blank"><i class="fab fa-github"></i></a>
             </div>
             <!-- sidebar social end -->
 
