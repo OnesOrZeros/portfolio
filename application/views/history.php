@@ -110,7 +110,7 @@
                           </div>
 
                           <p>Bachelors of Science Computer Technology (Second class honours, upper division).</p>
-                          <a data-fancybox="diplome" href="<?php echo base_url();?>/resources/files/certificate.jpg" class="art-link art-color-link art-w-chevron">Degree</a>
+                          <a data-fancybox="diplome" href="<?php echo base_url();?>/resources/files/certificate.jpg" class="art-link art-color-link art-w-chevron">Bachelor's Degree</a>
                         </div>
                       </div>
 

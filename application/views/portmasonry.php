@@ -57,8 +57,8 @@
                       <!-- description -->
                       <div class="art-item-description">
                         <!-- title -->
-                        <h5 class="mb-15">Project title</h5>
-                        <div class="mb-15">Sit amet, consectetur adipisicing elit. Quas, architecto.</div>
+                        <h5 class="mb-15">CallMetron 14.0.2</h5>
+                        <div class="mb-15">Discover the value of your data.</div>
                         <!-- button -->
                         <a href="https://www.callmetron.com/" class="art-link art-color-link art-w-chevron">Read more</a>
                       </div>
@@ -81,8 +81,8 @@
                       <!-- description -->
                       <div class="art-item-description">
                         <!-- title -->
-                        <h5 class="mb-15">Project title</h5>
-                        <div class="mb-15">Sit amet, consectetur adipisicing elit. Quas, architecto.</div>
+                        <h5 class="mb-15">Finsys Group</h5>
+                        <div class="mb-15">We are a company passionate about using technology to help businesses improve operations, streamline operations and ultimately grow by providing software and hardware solutions.</div>
                         <!-- button -->
                         <a href="https://finsys-group.com/" class="art-link art-color-link art-w-chevron">Read more</a>
                       </div>
@@ -105,8 +105,8 @@
                       <!-- description -->
                       <div class="art-item-description">
                         <!-- title -->
-                        <h5 class="mb-15">Project title</h5>
-                        <div class="mb-15">Sit amet, consectetur adipisicing elit. Quas, architecto.</div>
+                        <h5 class="mb-15">Finsys Group</h5>
+                        <div class="mb-15">A High End ICT Solutions Company.</div>
                         <!-- button -->
                         <a href="https://finsys-group.com/" class="art-link art-color-link art-w-chevron">Read more</a>
                       </div>
@@ -129,8 +129,8 @@
                       <!-- description -->
                       <div class="art-item-description">
                         <!-- title -->
-                        <h5 class="mb-15">Project title</h5>
-                        <div class="mb-15">Sit amet, consectetur adipisicing elit. Quas, architecto.</div>
+                        <h5 class="mb-15">CallMetron Demo</h5>
+                        <div class="mb-15">Next Level Call Billing and Analytics. Turning complex organizational call management into a simple and seamless solution!</div>
                         <!-- button -->
                         <a href="https://demo.callmetron.com/" class="art-link art-color-link art-w-chevron">Read more</a>
                       </div>
@@ -153,8 +153,8 @@
                       <!-- description -->
                       <div class="art-item-description">
                         <!-- title -->
-                        <h5 class="mb-15">Project title</h5>
-                        <div class="mb-15">Sit amet, consectetur adipisicing elit. Quas, architecto.</div>
+                        <h5 class="mb-15">Creditcheck Company.</h5>
+                        <div class="mb-15">We offer a variety of solutions to make all your debt tracking easy.</div>
                         <!-- button -->
                         <a href="https://creditcheck.co.ke/" class="art-link art-color-link art-w-chevron">Read more</a>
                       </div>
