@@ -11,9 +11,8 @@
                 <!-- footer -->
                 <footer>
                   <!-- copyright -->
-                  <div>© 2020 Artur Carter</div>
-                  <!-- author ( Please! Do not delete it. You are awesome! :) -->
-                  <div>Template author:&#160; <a href="https://themeforest.net/user/millerdigitaldesign" target="_blank">Nazar Miller</a></div>
+                  <div>© <?php echo date("Y"); ?> Mwaura Kelvin Gitonga</div>
+                  
                 </footer>
                 <!-- footer end -->
 
@@ -77,7 +76,6 @@
               <!-- language change -->
               <ul class="art-language-change">
                 <!-- language item -->
-                <li><a href="#.">FR</a></li>
                 <!-- language item -->
                 <li class="art-active-lang"><a href="#.">EN</a></li>
               </ul>
@@ -103,7 +101,7 @@
       <!-- preloader content -->
       <div class="art-preloader-content">
         <!-- title -->
-        <h4>Artur Carter</h4>
+        <h4>Mwaura Kelvin Gitonga</h4>
         <!-- progressbar -->
         <div id="preloader" class="art-preloader-load"></div>
       </div>
