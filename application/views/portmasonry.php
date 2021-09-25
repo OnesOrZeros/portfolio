@@ -47,9 +47,9 @@
                     <div class="art-grid-item webTemplates">
 
                       <!-- grid item frame -->
-                      <a data-fancybox="gallery" href="<?php echo base_url();?>/resources/img/works/original-size/1.jpg" class="art-a art-portfolio-item-frame art-horizontal">
+                      <a data-fancybox="gallery" href="<?php echo base_url();?>/resources/img/works/original-size/1.png" class="art-a art-portfolio-item-frame art-horizontal">
                         <!-- img -->
-                        <img src="<?php echo base_url();?>/resources/img/works/thumbnail/1.jpg" alt="item">
+                        <img src="<?php echo base_url();?>/resources/img/works/thumbnail/1.png" alt="item">
                         <!-- zoom icon -->
                         <span class="art-item-hover"><i class="fas fa-expand"></i></span>
                       </a>
@@ -71,9 +71,9 @@
                     <div class="art-grid-item logos">
 
                       <!-- grid item frame -->
-                      <a data-fancybox="gallery" href="<?php echo base_url();?>/resources/img/works/original-size/2.jpg" class="art-a art-portfolio-item-frame art-vertical">
+                      <a data-fancybox="gallery" href="<?php echo base_url();?>/resources/img/works/original-size/3.png" class="art-a art-portfolio-item-frame art-vertical">
                         <!-- img -->
-                        <img src="<?php echo base_url();?>/resources/img/works/thumbnail/2.jpg" alt="item">
+                        <img src="<?php echo base_url();?>/resources/img/works/thumbnail/3.png" alt="item">
                         <!-- zoom icon -->
                         <span class="art-item-hover"><i class="fas fa-expand"></i></span>
                       </a>
@@ -95,9 +95,9 @@
                     <div class="art-grid-item drawings">
 
                       <!-- grid item frame -->
-                      <a data-fancybox="gallery" href="<?php echo base_url();?>/resources/img/works/original-size/3.jpg" class="art-a art-portfolio-item-frame art-horizontal">
+                      <a data-fancybox="gallery" href="<?php echo base_url();?>/resources/img/works/original-size/5.png" class="art-a art-portfolio-item-frame art-horizontal">
                         <!-- img -->
-                        <img src="<?php echo base_url();?>/resources/img/works/thumbnail/3.jpg" alt="item">
+                        <img src="<?php echo base_url();?>/resources/img/works/thumbnail/5.png" alt="item">
                         <!-- zoom icon -->
                         <span class="art-item-hover"><i class="fas fa-expand"></i></span>
                       </a>
@@ -119,9 +119,9 @@
                     <div class="art-grid-item ui">
 
                       <!-- grid item frame -->
-                      <a data-fancybox="gallery" href="<?php echo base_url();?>/resources/img/works/original-size/4.jpg" class="art-a art-portfolio-item-frame art-square">
+                      <a data-fancybox="gallery" href="<?php echo base_url();?>/resources/img/works/original-size/2.png" class="art-a art-portfolio-item-frame art-square">
                         <!-- img -->
-                        <img src="<?php echo base_url();?>/resources/img/works/thumbnail/4.jpg" alt="item">
+                        <img src="<?php echo base_url();?>/resources/img/works/thumbnail/2.png" alt="item">
                         <!-- zoom icon -->
                         <span class="art-item-hover"><i class="fas fa-expand"></i></span>
                       </a>
@@ -143,9 +143,9 @@
                     <div class="art-grid-item webTemplates">
 
                       <!-- grid item frame -->
-                      <a data-fancybox="gallery" href="<?php echo base_url();?>/resources/img/works/original-size/5.jpg" class="art-a art-portfolio-item-frame art-square">
+                      <a data-fancybox="gallery" href="<?php echo base_url();?>/resources/img/works/original-size/4.png" class="art-a art-portfolio-item-frame art-square">
                         <!-- img -->
-                        <img src="<?php echo base_url();?>/resources/img/works/thumbnail/5.jpg" alt="item">
+                        <img src="<?php echo base_url();?>/resources/img/works/thumbnail/4.png" alt="item">
                         <!-- zoom icon -->
                         <span class="art-item-hover"><i class="fas fa-expand"></i></span>
                       </a>
