@@ -590,9 +590,9 @@
                     <!-- grid item -->
                     <div class="art-grid-item webTemplates">
                       <!-- grid item frame -->
-                      <a data-fancybox="gallery" href="<?php echo base_url();?>/resources/img/works/original-size/1.jpg" class="art-a art-portfolio-item-frame art-horizontal">
+                      <a data-fancybox="gallery" href="<?php echo base_url();?>/resources/img/works/original-size/1.png" class="art-a art-portfolio-item-frame art-horizontal">
                         <!-- img -->
-                        <img src="<?php echo base_url();?>/resources/img/works/thumbnail/1.jpg" alt="item">
+                        <img src="<?php echo base_url();?>/resources/img/works/thumbnail/1.png" alt="item">
                         <!-- zoom icon -->
                         <span class="art-item-hover"><i class="fas fa-expand"></i></span>
                       </a>
@@ -600,7 +600,8 @@
                       <!-- description -->
                       <div class="art-item-description">
                         <!-- title -->
-                        <h5 class="mb-15">Project title</h5>
+                        <h5 class="mb-15">CallMetron 14.0.2</h5>
+                        <div class="mb-15">Discover the value of your data.</div>
                         <!-- button -->
                         <a href="https://www.callmetron.com/" class="art-link art-color-link art-w-chevron">Read more</a>
                       </div>
@@ -612,9 +613,9 @@
                     <!-- grid item -->
                     <div class="art-grid-item logos">
                       <!-- grid item frame -->
-                      <a data-fancybox="gallery" href="<?php echo base_url();?>/resources/img/works/original-size/2.jpg" class="art-a art-portfolio-item-frame art-vertical">
+                      <a data-fancybox="gallery" href="<?php echo base_url();?>/resources/img/works/original-size/3.png" class="art-a art-portfolio-item-frame art-vertical">
                         <!-- img -->
-                        <img src="<?php echo base_url();?>/resources/img/works/thumbnail/2.jpg" alt="item">
+                        <img src="<?php echo base_url();?>/resources/img/works/thumbnail/3.png" alt="item">
                         <!-- zoom icon -->
                         <span class="art-item-hover"><i class="fas fa-expand"></i></span>
                       </a>
@@ -622,8 +623,8 @@
                       <!-- description -->
                       <div class="art-item-description">
                         <!-- title -->
-                        <h5 class="mb-15">Project title</h5>
-                        <div class="mb-15">Sit amet, consectetur adipisicing elit. Quas, architecto.</div>
+                        <h5 class="mb-15">Finsys Group</h5>
+                        <div class="mb-15">We are a company passionate about using technology to help businesses improve operations, streamline operations and ultimately grow by providing software and hardware solutions.</div>
                         <!-- button -->
                         <a href="https://finsys-group.com/" class="art-link art-color-link art-w-chevron">Read more</a>
                       </div>
@@ -635,9 +636,9 @@
                     <!-- grid item -->
                     <div class="art-grid-item drawings">
                       <!-- grid item frame -->
-                      <a data-fancybox="gallery" href="<?php echo base_url();?>/resources/img/works/original-size/3.jpg" class="art-a art-portfolio-item-frame art-square">
+                      <a data-fancybox="gallery" href="<?php echo base_url();?>/resources/img/works/original-size/5.png" class="art-a art-portfolio-item-frame art-square">
                         <!-- img -->
-                        <img src="<?php echo base_url();?>/resources/img/works/thumbnail/3.jpg" alt="item">
+                        <img src="<?php echo base_url();?>/resources/img/works/thumbnail/5.png" alt="item">
                         <!-- zoom icon -->
                         <span class="art-item-hover"><i class="fas fa-expand"></i></span>
                       </a>
@@ -645,8 +646,8 @@
                       <!-- description -->
                       <div class="art-item-description">
                         <!-- title -->
-                        <h5 class="mb-15">Project title</h5>
-                        <div class="mb-15">Sit amet, consectetur adipisicing elit. Quas, architecto.</div>
+                        <h5 class="mb-15">Finsys Group</h5>
+                        <div class="mb-15">A High End ICT Solutions Company.</div>
                         <!-- button -->
                         <a href="https://finsys-group.com/" class="art-link art-color-link art-w-chevron">Read more</a>
                       </div>
@@ -658,9 +659,9 @@
                     <!-- grid item -->
                     <div class="art-grid-item ui">
                       <!-- grid item frame -->
-                      <a data-fancybox="gallery" href="<?php echo base_url();?>/resources/img/works/original-size/4.jpg" class="art-a art-portfolio-item-frame art-vertical">
+                      <a data-fancybox="gallery" href="<?php echo base_url();?>/resources/img/works/original-size/2.png" class="art-a art-portfolio-item-frame art-vertical">
                         <!-- img -->
-                        <img src="<?php echo base_url();?>/resources/img/works/thumbnail/4.jpg" alt="item">
+                        <img src="<?php echo base_url();?>/resources/img/works/thumbnail/2.png" alt="item">
                         <!-- zoom icon -->
                         <span class="art-item-hover"><i class="fas fa-expand"></i></span>
                       </a>
@@ -668,8 +669,8 @@
                       <!-- description -->
                       <div class="art-item-description">
                         <!-- title -->
-                        <h5 class="mb-15">Project title</h5>
-                        <div class="mb-15">Sit amet, consectetur adipisicing elit. Quas, architecto.</div>
+                        <h5 class="mb-15">CallMetron Demo</h5>
+                        <div class="mb-15">Next Level Call Billing and Analytics. Turning complex organizational call management into a simple and seamless solution!</div>
                         <!-- button -->
                         <a href="https://demo.callmetron.com/" class="art-link art-color-link art-w-chevron">Read more</a>
                       </div>
@@ -681,9 +682,9 @@
                     <!-- grid item -->
                     <div class="art-grid-item webTemplates">
                       <!-- grid item frame -->
-                      <a data-fancybox="gallery" href="<?php echo base_url();?>/resources/img/works/original-size/5.jpg" class="art-a art-portfolio-item-frame art-square">
+                      <a data-fancybox="gallery" href="<?php echo base_url();?>/resources/img/works/original-size/4.png" class="art-a art-portfolio-item-frame art-square">
                         <!-- img -->
-                        <img src="<?php echo base_url();?>/resources/img/works/thumbnail/5.jpg" alt="item">
+                        <img src="<?php echo base_url();?>/resources/img/works/thumbnail/4.png" alt="item">
                         <!-- zoom icon -->
                         <span class="art-item-hover"><i class="fas fa-expand"></i></span>
                       </a>
@@ -691,8 +692,8 @@
                       <!-- description -->
                       <div class="art-item-description">
                         <!-- title -->
-                        <h5 class="mb-15">Project title</h5>
-                        <div class="mb-15">Sit amet, consectetur adipisicing elit. Quas, architecto.</div>
+                        <h5 class="mb-15">Creditcheck Company</h5>
+                        <div class="mb-15">We offer a variety of solutions to make all your debt tracking easy.</div>
                         <!-- button -->
                         <a href="https://creditcheck.co.ke/" class="art-link art-color-link art-w-chevron">Read more</a>
                       </div>
@@ -943,178 +944,6 @@
                             <br>● Networking</p>
                           <a data-fancybox="recommendation" href="#art-recomendation-popup-1" class="art-link art-color-link art-w-chevron">Recommendation</a>
                         </div>
-
-                        <!-- popup -->
-                        <div class="art-recomendation-popup" style="display: none;" id="art-recomendation-popup-1">
-
-                          <!-- testimonial -->
-                          <div class="art-a art-testimonial">
-                            <!-- testimonial body -->
-                            <div class="testimonial-body">
-                              <!-- photo -->
-                              <img class="art-testimonial-face" src="<?php echo base_url();?>/resources/img/testimonials/face-3.jpg" alt="face">
-                              <!-- name -->
-                              <h5>Paul Trueman</h5>
-                              <div class="art-el-suptitle mb-15">Template author</div>
-                              <!-- text -->
-                              <div class="mb-15">Working with Artur has been a pleasure. Better yet - I alerted them of a minor issue before going to sleep. The issue was fixed the next morning. I couldn't ask for better support. Thank you Artur!
-                                This is easily a 5 star freelancer.</div>
-                            </div>
-                            <!-- testimonial body end -->
-                            <!-- testimonial footer -->
-                            <div class="art-testimonial-footer">
-                              <div class="art-left-side">
-                                <!-- star rate -->
-                                <ul class="art-star-rate">
-                                  <li><i class="fas fa-star"></i></li>
-                                  <li><i class="fas fa-star"></i></li>
-                                  <li><i class="fas fa-star"></i></li>
-                                  <li><i class="fas fa-star"></i></li>
-                                  <li><i class="fas fa-star"></i></li>
-                                </ul>
-                                <!-- star rate end -->
-                              </div>
-                              <div class="art-right-side">
-
-                              </div>
-                            </div>
-                            <!-- testimonial footer end -->
-                          </div>
-                          <!-- testimonial end -->
-
-                        </div>
-                        <!-- popup end -->
-
-                      </div>
-
-                      <div class="art-timeline-item">
-                        <div class="art-timeline-mark-light"></div>
-                        <div class="art-timeline-mark"></div>
-
-                        <div class="art-a art-timeline-content">
-                          <div class="art-card-header">
-                            <div class="art-left-side">
-                              <h5>Title of section 1</h5>
-                              <div class="art-el-suptitle mb-15">Template author</div>
-                            </div>
-                            <div class="art-right-side">
-                              <span class="art-date">jan 2018 - may 2020</span>
-                            </div>
-                          </div>
-                          <p>Consectetur adipisicing elit. Excepturi, obcaecati, quisquam id molestias eaque asperiores voluptatibus cupiditate error assumenda delectus odit similique earum voluptatem doloremque dolorem
-                            ipsam quae rerum quis. Odit, itaque, deserunt corporis vero ipsum nisi eius odio natus ullam provident pariatur temporibus quia eos repellat consequuntur perferendis enim amet quae quasi repudiandae sed quod veniam
-                            dolore
-                            possimus rem voluptatum eveniet eligendi quis fugiat aliquam sunt similique aut adipisci.</p>
-                          <a data-fancybox="recommendation" href="#art-recomendation-popup-2" class="art-link art-color-link art-w-chevron">Recommendation</a>
-                        </div>
-
-                        <!-- popup -->
-                        <div class="art-recomendation-popup" style="display: none;" id="art-recomendation-popup-2">
-
-                          <!-- testimonial -->
-                          <div class="art-a art-testimonial">
-                            <!-- testimonial body -->
-                            <div class="testimonial-body">
-                              <!-- photo -->
-                              <img class="art-testimonial-face" src="<?php echo base_url();?>/resources/img/testimonials/face-4.jpg" alt="face">
-                              <!-- name -->
-                              <h5>Paul Trueman</h5>
-                              <div class="art-el-suptitle mb-15">Template author</div>
-                              <!-- text -->
-                              <div class="mb-15">Working with Artur has been a pleasure. Better yet - I alerted them of a minor issue before going to sleep. The issue was fixed the next morning. I couldn't ask for better support. Thank you Artur!
-                                This is easily a 5 star freelancer.</div>
-                            </div>
-                            <!-- testimonial body end -->
-                            <!-- testimonial footer -->
-                            <div class="art-testimonial-footer">
-                              <div class="art-left-side">
-                                <!-- star rate -->
-                                <ul class="art-star-rate">
-                                  <li><i class="fas fa-star"></i></li>
-                                  <li><i class="fas fa-star"></i></li>
-                                  <li><i class="fas fa-star"></i></li>
-                                  <li><i class="fas fa-star"></i></li>
-                                  <li><i class="fas fa-star"></i></li>
-                                </ul>
-                                <!-- star rate end -->
-                              </div>
-                              <div class="art-right-side">
-
-                              </div>
-                            </div>
-                            <!-- testimonial footer end -->
-                          </div>
-                          <!-- testimonial end -->
-
-                        </div>
-                        <!-- popup end -->
-
-                      </div>
-
-                      <div class="art-timeline-item">
-                        <div class="art-timeline-mark-light"></div>
-                        <div class="art-timeline-mark"></div>
-
-                        <div class="art-a art-timeline-content">
-                          <div class="art-card-header">
-                            <div class="art-left-side">
-                              <h5>Title of section 1</h5>
-                              <div class="art-el-suptitle mb-15">Template author</div>
-                            </div>
-                            <div class="art-right-side">
-                              <span class="art-date">jan 2018 - tonight</span>
-                            </div>
-                          </div>
-                          <p>Dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum.</p>
-                          <a data-fancybox="recommendation" href="#art-recomendation-popup-3" class="art-link art-color-link art-w-chevron">Recommendation</a>
-                        </div>
-
-                        <!-- popup -->
-                        <div class="art-recomendation-popup" style="display: none;" id="art-recomendation-popup-3">
-
-                          <!-- testimonial -->
-                          <div class="art-a art-testimonial">
-                            <!-- testimonial body -->
-                            <div class="testimonial-body">
-                              <!-- photo -->
-                              <img class="art-testimonial-face" src="<?php echo base_url();?>/resources/img/testimonials/face-2.jpg" alt="face">
-                              <!-- name -->
-                              <h5>Paul Trueman</h5>
-                              <div class="art-el-suptitle mb-15">Template author</div>
-                              <!-- text -->
-                              <div class="mb-15">Working with Artur has been a pleasure. Better yet - I alerted them of a minor issue before going to sleep. The issue was fixed the next morning. I couldn't ask for better support. Thank you Artur!
-                                This is easily a 5 star freelancer.</div>
-                            </div>
-                            <!-- testimonial body end -->
-                            <!-- testimonial footer -->
-                            <div class="art-testimonial-footer">
-                              <div class="art-left-side">
-                                <!-- star rate -->
-                                <ul class="art-star-rate">
-                                  <li><i class="fas fa-star"></i></li>
-                                  <li><i class="fas fa-star"></i></li>
-                                  <li><i class="fas fa-star"></i></li>
-                                  <li><i class="fas fa-star"></i></li>
-                                  <li class="art-empty-item"><i class="fas fa-star"></i></li>
-                                </ul>
-                                <!-- star rate end -->
-                              </div>
-                              <div class="art-right-side">
-
-                              </div>
-                            </div>
-                            <!-- testimonial footer end -->
-                          </div>
-                          <!-- testimonial end -->
-
-                        </div>
-                        <!-- popup end -->
-
-                      </div>
-
-                    </div>
-                    <!-- timeline end -->
-
                   </div>
                   <!-- col end -->
 
