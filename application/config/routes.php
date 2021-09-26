@@ -11,6 +11,8 @@ $route['portfolio'] = 'Home/portmasonry';
 
 $route['contact'] = 'Home/contact';
 
+$route['success'] = 'Home/success';
+
 
 
 $route['default_controller'] = 'Home';
