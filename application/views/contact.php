@@ -122,7 +122,7 @@
 
                       <!-- contact form -->
                       <div class="art-contact-form">
-                        <?php echo form_open('home/sendMail')?>
+                        <?php echo form_open('home/sendcontactmail')?>
                           <!-- form field -->
                           <div class="art-form-field">
                             <!-- name input -->
