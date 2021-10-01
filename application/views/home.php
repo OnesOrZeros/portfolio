@@ -11,7 +11,7 @@
           <div class="art-curtain"></div>
 
           <!-- top background -->
-          <div class="art-top-bg" style="background-image: url(<?php echo base_url();?>/resources/img/bg.jpg)">
+          <div class="art-top-bg" style="background-image: url(<?php echo base_url();?>/resources/img/face-1.jpg)">
             <!-- overlay -->
             <div class="art-top-bg-overlay"></div>
             <!-- overlay end -->
@@ -54,7 +54,7 @@
                         </div>
                         <!-- main title end -->
                         <!-- photo -->
-                        <img src="<?php echo base_url();?>/resources/img/face-2.png" class="art-banner-photo" alt="Your Name">
+                        <img src="<?php echo base_url();?>/resources/img/face-3.jpg" class="art-banner-photo" alt="Your Name">
                       </div>
                       <!-- banner overlay end -->
                     </div>
