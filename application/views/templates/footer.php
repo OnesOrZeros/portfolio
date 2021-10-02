@@ -64,6 +64,7 @@
                   <li class="menu-item"><a href="<?php echo base_url(); ?>history">History</a></li>
                   <!-- menu item -->
                   <li class="menu-item"><a href="<?php echo base_url(); ?>contact">Contact</a></li>
+<<<<<<< HEAD
                   <!-- menu item -->
                  
 <<<<<<< HEAD
@@ -73,6 +74,9 @@
                   <li class="menu-item"><a href="<?php echo base_url(); ?>onepage" target="_blank">Onepage</a></li>
                   -->
 >>>>>>> kevo
+=======
+                  
+>>>>>>> fred
                 </ul>
                 <!-- menu list end -->
               </nav>
