@@ -72,10 +72,10 @@
               <!-- name -->
               <h5 class="art-name mb-10"><a href="/home.html">Mwaura Kelvin Gitonga</a></h5>
               <!-- post -->
-              <div class="art-sm-text">Full Stack Deweloper </br> 
+              <div class="art-sm-text">Full Stack Developer </br> 
                         <?php $dob='2016-01-01';
                         $diff = (date('Y') - date('Y',strtotime($dob)));
-                        echo $diff; ?> Years Coding Experience</div>
+                        echo $diff; ?> years Software Engineering Experience</div>
             </div>
             <!-- info bar header end -->
 
@@ -88,11 +88,14 @@
                 <ul>
                   <!-- country -->
                   <li>
-                    <h6>CISCO Certified DevNet Associate</h6>
+                  <img style="height:55px; width:64px;" src="<?php echo base_url();?>/resources/img/brands/1.png" alt="brand">
+                    <h6 style="padding: 10px;">CISCO Certified DevNet Associate</h6>
                   </li>
                   <!-- city -->
                   <li>
-                    <h6>CISCO Certified DevNet Specialist</h6>
+                 <img style="height:55px; width:64px;" src="<?php echo base_url();?>/resources/img/brands/2.png" alt="brand">
+                    <h6 style="padding: 10px;">CISCO Certified DevNet Specialist</h6>
+                    
                   </li>
                 </ul>
               </div>
@@ -133,7 +136,7 @@
                 <div class="art-hard-skills-item">
                   <div class="art-skill-heading">
                     <!-- title -->
-                    <h6>html</h6>
+                    <h6>HTML</h6>
                   </div>
                   <!-- progressbar frame -->
                   <div class="art-line-progress">
@@ -178,7 +181,7 @@
                 <div class="art-hard-skills-item">
                   <div class="art-skill-heading">
                     <!-- title -->
-                    <h6>Js</h6>
+                    <h6>Javascript</h6>PHP
                   </div>
                   <!-- progressbar frame -->
                   <div class="art-line-progress">
@@ -298,7 +301,7 @@
                 <div class="art-hard-skills-item">
                   <div class="art-skill-heading">
                     <!-- title -->
-                    <h6>MySql</h6>
+                    <h6>MySQL</h6>
                   </div>
                   <!-- progressbar frame -->
                   <div class="art-line-progress">
@@ -343,7 +346,7 @@
                 <div class="art-hard-skills-item">
                   <div class="art-skill-heading">
                     <!-- title -->
-                    <h6>Native JS</h6>
+                    <h6>MSSQL</h6>
                   </div>
                   <!-- progressbar frame -->
                   <div class="art-line-progress">
@@ -358,7 +361,7 @@
                  <div class="art-hard-skills-item">
                   <div class="art-skill-heading">
                     <!-- title -->
-                    <h6>Vue & React </h6>
+                    <h6>Vue</h6>
                   </div>
                   <!-- progressbar frame -->
                   <div class="art-line-progress">
@@ -373,7 +376,7 @@
                  <div class="art-hard-skills-item">
                   <div class="art-skill-heading">
                     <!-- title -->
-                    <h6>Red Hat</h6>
+                    <h6>React</h6>
                   </div>
                   <!-- progressbar frame -->
                   <div class="art-line-progress">
