@@ -25,16 +25,16 @@
 
 <body>
 
-  <!-- app -->
+  <!-- app // -->
   <div class="art-app">
 
     <!-- mobile top bar -->
     <div class="art-mobile-top-bar"></div>
 
-    <!-- app wrapper -->
+    <!-- app wrapper  //-->
     <div class="art-app-wrapper">
 
-      <!-- app container end -->
+      <!-- app container end  //-->
       <div class="art-app-container">
 
         <!-- info bar -->
