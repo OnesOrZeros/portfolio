@@ -69,10 +69,10 @@
                       <div class="art-table p-15-15">
                         <ul>
                           <li>
-                          <i class="fas fa-envelope"></i><span>Personal:</span><a rel="noreferrer" href="mailto:mwauragitonga12@gmail.com" target="_blank"><h6>mwauragitonga12@gmail.com</h6></a>
+                          <i class="fas fa-envelope"></i><span>Personal:</span><a href="mailto:mwauragitonga12@gmail.com" target="_blank"><h6>mwauragitonga12@gmail.com</h6></a>
                           </li>
                           <li>
-                          <i class="fas fa-briefcase"></i><span>Office:</span><a rel="noreferrer" href="mailto:info@mwauragitonga.com" target="_blank"><h6>info@mwauragitonga.com</h6></a>
+                          <i class="fas fa-briefcase"></i><span>Office:</span><a href="mailto:info@mwauragitonga.com" target="_blank"><h6>info@mwauragitonga.com</h6></a>
                           </li>
                         </ul>
                       </div>
@@ -87,13 +87,13 @@
                       <div class="art-table p-15-15">
                         <ul>
                           <li>
-                          <i class="fas fa-phone"></i><span>Phone:</span> <a rel="noreferrer" href="tel:+254725807288" target="_blank"><h6>(+254) 725-807-288</h6></a>
+                          <i class="fas fa-phone"></i><span>Phone:</span> <a href="tel:+254725807288" target="_blank"><h6>(+254) 725-807-288</h6></a>
                           </li>
                           <li>
-                          <i class="fab fa-skype"></i><span>Skype:</span><a rel="noreferrer" href="skype:mwauragitonga12?chat" target="_blank"><h6>mwauragitonga12</h6></a>
+                          <i class="fab fa-skype"></i><span>Skype:</span><a href="skype:mwauragitonga12?chat" target="_blank"><h6>mwauragitonga12</h6></a>
                           </li>
                           <li>
-                          <i class="fab fa-twitter"></i><span>Twitter:</span><a rel="noreferrer" href="https://twitter.com/__Gitonga?t=bxYcBRnlP7cZ1iOL9dLJUg&s=09" target="_blank"><h6>@__Gitonga</h6></a>
+                          <i class="fab fa-twitter"></i><span>Twitter:</span><a href="https://twitter.com/__Gitonga?t=bxYcBRnlP7cZ1iOL9dLJUg&s=09" target="_blank"><h6>@__Gitonga</h6></a>
                           </li>
                         </ul>
                       </div>
