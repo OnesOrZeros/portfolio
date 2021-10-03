@@ -92,10 +92,10 @@
         <!-- menu bar end -->
 
       </div>
-      <!-- app container end //-->
+      <!-- app container end -->
 
     </div>
-    <!-- app wrapper end // -->
+    <!-- app wrapper end -->
 
     <!-- preloader -->
     <div class="art-preloader">
@@ -111,7 +111,7 @@
     <!-- preloader end -->
 
   </div>
-  <!-- app end // -->
+  <!-- app end -->
 
   <!-- jquery js -->
   <script src="<?php echo base_url();?>/resources/js/plugins/jquery.min.js"></script>
