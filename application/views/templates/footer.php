@@ -19,14 +19,7 @@
               </div>
               <!-- container end -->
 
-            </div>
-            <!-- scroll frame end -->
-
-          </div>
-          <!-- swup container end -->
-
-        </div>
-        <!-- content end -->
+           
 
         <!-- menu bar -->
         <div class="art-menu-bar">
