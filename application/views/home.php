@@ -203,14 +203,119 @@
                   <!-- col -->
                   <div class="col-lg-4 col-md-6">
 
+                      <!-- service -->
+                        <div class="art-a art-service-icon-box">
+                          <!-- service content -->
+                            <div class="art-service-ib-content">
+                              <!-- title -->
+                              <h5 class="mb-15">UI/UX Design</h5>
+                                <!-- text -->
+                                <div class="mb-15">Design of classic user interfaces ensuring the best user experiences.</div>
+                                <!-- button -->
+                                <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
+                            </div>
+                          <!-- service content end -->
+                        </div>
+                      <!-- service end -->
+
+                  </div>
+                  <!-- col end -->
+
+                  <!-- col -->
+                  <div class="col-lg-4 col-md-6">
+
+                      <!-- service -->
+                        <div class="art-a art-service-icon-box">
+                          <!-- service content -->
+                            <div class="art-service-ib-content">
+                              <!-- title -->
+                              <h5 class="mb-15">Android Development</h5>
+                              <!-- text -->
+                              <div class="mb-15">I design, build and deploy android apps to help our clients.</div>
+                              <!-- button -->
+                              <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
+                            </div>
+                          <!-- service content end -->
+                        </div>
+                      <!-- service end -->
+
+                  </div>
+                  <!-- col end -->
+
+                  <!-- col -->
+                  <div class="col-lg-4 col-md-6">
+
+                      <!-- service -->
+                        <div class="art-a art-service-icon-box">
+                          <!-- service content -->
+                            <div class="art-service-ib-content">
+                              <!-- title -->
+                              <h5 class="mb-15">Software Development</h5>
+                              <!-- text -->
+                              <div class="mb-15">We build custom software solutions for all business needs including web-based and desktop applications.</div>
+                              <!-- button -->
+                              <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
+                            </div>
+                          <!-- service content end -->
+                        </div>
+                      <!-- service end -->
+
+                  </div>
+                  <!-- col end -->
+
+                  <!-- col -->
+                  <div class="col-lg-4 col-md-6">
+
+                    <!-- service -->
+                      <div class="art-a art-service-icon-box">
+                        <!-- service content -->
+                          <div class="art-service-ib-content">
+                            <!-- title -->
+                            <h5 class="mb-15">Software Development</h5>
+                            <!-- text -->
+                            <div class="mb-15">We build custom software solutions for all business needs including web-based and desktop applications.</div>
+                            <!-- button -->
+                            <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
+                          </div>
+                        <!-- service content end -->
+                      </div>
+                    <!-- service end -->
+
+                  </div>
+                  <!-- col end -->
+
+                  <!-- col -->
+                  <div class="col-lg-4 col-md-6">
+
                     <!-- service -->
                     <div class="art-a art-service-icon-box">
                       <!-- service content -->
                       <div class="art-service-ib-content">
                         <!-- title -->
-                        <h5 class="mb-15">UI/UX Design</h5>
+                        <h5 class="mb-15">Application Hosting & Maintenance</h5>
                         <!-- text -->
-                        <div class="mb-15">Design of classic user interfaces ensuring the best user experiences.</div>
+                        <div class="mb-15">Forget any hosting and maintenance troubles for your small or huge application and let us do the toiling for you.</div>
+                        <!-- button -->
+                        <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
+                      </div>
+                      <!-- service content end -->
+                    </div>
+                    <!-- service end -->
+
+                  </div>
+                  <!-- col end -->
+
+                  <!-- col -->
+                  <div class="col-lg-4 col-md-6">
+
+                    <!-- service -->
+                    <div class="art-a art-service-icon-box">
+                      <!-- service content -->
+                      <div class="art-service-ib-content">
+                        <!-- title -->
+                        <h5 class="mb-15">Home Automation</h5>
+                        <!-- text -->
+                        <div class="mb-15">We will help you automate processes and devices in your house or office easily using Alexa, Siri or Google.</div>
                         <!-- button -->
                         <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
                       </div>
@@ -263,27 +368,6 @@
                   </div>
                   <!-- col end -->
 
-                  <!-- col -->
-                  <div class="col-lg-4 col-md-6">
-
-                    <!-- service -->
-                    <div class="art-a art-service-icon-box">
-                      <!-- service content -->
-                      <div class="art-service-ib-content">
-                        <!-- title -->
-                        <h5 class="mb-15">Digital Marketing</h5>
-                        <!-- text -->
-                        <div class="mb-15">Improve your business presence online and across various social media platforms to reach more customers.</div>
-                        <!-- button -->
-                        <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
-                      </div>
-                      <!-- service content end -->
-                    </div>
-                    <!-- service end -->
-
-                  </div>
-                  <!-- col end -->
-
                    <!-- col -->
                    <div class="col-lg-4 col-md-6">
 
@@ -292,9 +376,9 @@
                         <!-- service content -->
                           <div class="art-service-ib-content">
                             <!-- title -->
-                             <h5 class="mb-15">IT Consultancy</h5>
+                            <h5 class="mb-15">Digital Marketing</h5>
                                <!-- text -->
-                                <div class="mb-15">Provide professional consultancy services on all matters technology or data to individuals or businesses that want to leverage the power of tech.</div>
+                               <div class="mb-15">Improve your business presence online and across various social media platforms to reach more customers.</div>
                                  <!-- button -->
                                  <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
                               </div>
@@ -304,6 +388,28 @@
 
                     </div>
                   <!-- col end -->
+                  
+                  <!-- col -->
+                  <div class="col-lg-4 col-md-6">
+
+                    <!-- service -->
+                      <div class="art-a art-service-icon-box">
+                        <!-- service content -->
+                          <div class="art-service-ib-content">
+                            <!-- title -->
+                            <h5 class="mb-15">IT Consultancy</h5>
+                            <!-- text -->
+                            <div class="mb-15">Provide professional consultancy services on all matters technology or data to individuals or businesses that want to leverage the power of tech.</div>
+                            <!-- button -->
+                            <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
+                          </div>
+                        <!-- service content end -->
+                      </div>
+                    <!-- service end -->
+
+                  </div>
+                  <!-- col end -->
+
 
                 </div>
                 <!-- row end -->

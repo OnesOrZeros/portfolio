@@ -39,7 +39,7 @@
                         <!-- main title -->
                         <div class="art-banner-title">
                           <!-- title -->
-                          <h1 class="mb-15">Discover my Amazing <br>Development Space!</h1>
+                          <h1 class="mb-15">Changing the World <br>With Each Line of Code.</h1>
                           <!-- suptitle -->
                           <div class="art-lg-text art-code mb-25">&lt;<i>code</i>&gt; I build <span class="txt-rotate" data-period="2000"
                               data-rotate='[ "web interfaces.", "android applications.", "great software.", "design mocups.", "automation tools." ]'></span>&lt;/<i>code</i>&gt;</div>
@@ -137,11 +137,11 @@
                       <!-- counter -->
                       <div class="art-counter-box">
                         <!-- counter number -->
-                        <span class="art-counter">10</span><span class="art-counter-plus">+</span>
+                        <span class="art-counter">100000</span><span class="art-counter-plus">s</span>
                       </div>
                       <!-- counter end -->
                       <!-- title -->
-                      <h6>Honors and Awards</h6>
+                      <h6>Lines of Code</h6>
                     </div>
                     <!-- couner frame end -->
 
@@ -201,14 +201,99 @@
                   <!-- col -->
                   <div class="col-lg-4 col-md-6">
 
+                      <!-- service -->
+                        <div class="art-a art-service-icon-box">
+                          <!-- service content -->
+                            <div class="art-service-ib-content">
+                              <!-- title -->
+                              <h5 class="mb-15">UI/UX Design</h5>
+                                <!-- text -->
+                                <div class="mb-15">Design of classic user interfaces ensuring the best user experiences.</div>
+                                <!-- button -->
+                                <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
+                            </div>
+                          <!-- service content end -->
+                        </div>
+                      <!-- service end -->
+
+                  </div>
+                  <!-- col end -->
+
+                  <!-- col -->
+                  <div class="col-lg-4 col-md-6">
+
+                      <!-- service -->
+                        <div class="art-a art-service-icon-box">
+                          <!-- service content -->
+                            <div class="art-service-ib-content">
+                              <!-- title -->
+                              <h5 class="mb-15">Android Development</h5>
+                              <!-- text -->
+                              <div class="mb-15">I design, build and deploy android apps to help our clients.</div>
+                              <!-- button -->
+                              <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
+                            </div>
+                          <!-- service content end -->
+                        </div>
+                      <!-- service end -->
+
+                  </div>
+                  <!-- col end -->
+
+                  <!-- col -->
+                  <div class="col-lg-4 col-md-6">
+
+                      <!-- service -->
+                        <div class="art-a art-service-icon-box">
+                          <!-- service content -->
+                            <div class="art-service-ib-content">
+                              <!-- title -->
+                              <h5 class="mb-15">Software Development</h5>
+                              <!-- text -->
+                              <div class="mb-15">We build custom software solutions for all business needs including web-based and desktop applications.</div>
+                              <!-- button -->
+                              <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
+                            </div>
+                          <!-- service content end -->
+                        </div>
+                      <!-- service end -->
+
+                  </div>
+                  <!-- col end -->
+
+                  <!-- col -->
+                  <div class="col-lg-4 col-md-6">
+
+                    <!-- service -->
+                      <div class="art-a art-service-icon-box">
+                        <!-- service content -->
+                          <div class="art-service-ib-content">
+                            <!-- title -->
+                            <h5 class="mb-15">Application Hosting & Maintenance</h5>
+                            <!-- text -->
+                            <div class="mb-15">Forget any hosting and maintenance troubles for your small or huge application and let us do the toiling for you.</div>
+                            <!-- button -->
+                            <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
+                          </div>
+                        <!-- service content end -->
+                      </div>
+                    <!-- service end -->
+
+                  </div>
+                  <!-- col end -->
+                 
+
+                  <!-- col -->
+                  <div class="col-lg-4 col-md-6">
+
                     <!-- service -->
                     <div class="art-a art-service-icon-box">
                       <!-- service content -->
                       <div class="art-service-ib-content">
                         <!-- title -->
-                        <h5 class="mb-15">UI/UX Design</h5>
+                        <h5 class="mb-15">Home Automation</h5>
                         <!-- text -->
-                        <div class="mb-15">Design of classic user interfaces ensuring the best user experiences.</div>
+                        <div class="mb-15">We will help you automate processes and devices in your house or office easily using Alexa, Siri or Google.</div>
                         <!-- button -->
                         <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
                       </div>
