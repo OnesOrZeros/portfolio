@@ -57,11 +57,27 @@
                   <li class="menu-item"><a href="<?php echo base_url(); ?>history">History</a></li>
                   <!-- menu item -->
                   <li class="menu-item"><a href="<?php echo base_url(); ?>contact">Contact</a></li>
+<<<<<<< HEAD
                   <!-- menu item -->
                  
                   <!-- menu item 
                   <li class="menu-item"><a href="<?php echo base_url(); ?>onepage" target="_blank">Onepage</a></li>
                   -->
+=======
+<<<<<<< HEAD
+                  <!-- menu item -->
+                 
+<<<<<<< HEAD
+                
+=======
+                  <!-- menu item 
+                  <li class="menu-item"><a href="<?php echo base_url(); ?>onepage" target="_blank">Onepage</a></li>
+                  -->
+>>>>>>> kevo
+=======
+                  
+>>>>>>> fred
+>>>>>>> parent of f85f63d (footer update)
                 </ul>
                 <!-- menu list end -->
               </nav>
