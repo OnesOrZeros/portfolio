@@ -20,8 +20,11 @@
               <!-- container end -->
 
 <<<<<<< HEAD
+<<<<<<< HEAD
            
 
+=======
+>>>>>>> parent of 5a57f4b (update footer)
 =======
 >>>>>>> parent of 5a57f4b (update footer)
         <!-- menu bar -->
