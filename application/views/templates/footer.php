@@ -19,14 +19,15 @@
               </div>
               <!-- container end -->
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-           
+              </div>
+            <!-- scroll frame end -->
 
-=======
->>>>>>> parent of 5a57f4b (update footer)
-=======
->>>>>>> parent of 5a57f4b (update footer)
+          </div>
+          <!-- swup container end -->
+
+        </div>
+        <!-- content end -->
+
         <!-- menu bar -->
         <div class="art-menu-bar">
 
@@ -63,27 +64,19 @@
                   <li class="menu-item"><a href="<?php echo base_url(); ?>history">History</a></li>
                   <!-- menu item -->
                   <li class="menu-item"><a href="<?php echo base_url(); ?>contact">Contact</a></li>
-<<<<<<< HEAD
+
                   <!-- menu item -->
                  
                   <!-- menu item 
                   <li class="menu-item"><a href="<?php echo base_url(); ?>onepage" target="_blank">Onepage</a></li>
                   -->
-=======
-<<<<<<< HEAD
+
                   <!-- menu item -->
-                 
-<<<<<<< HEAD
-                
-=======
+
                   <!-- menu item 
                   <li class="menu-item"><a href="<?php echo base_url(); ?>onepage" target="_blank">Onepage</a></li>
                   -->
->>>>>>> kevo
-=======
-                  
->>>>>>> fred
->>>>>>> parent of f85f63d (footer update)
+
                 </ul>
                 <!-- menu list end -->
               </nav>
