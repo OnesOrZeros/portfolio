@@ -57,8 +57,8 @@
                 <!-- menu list -->
                 <ul class="main-menu">
                   <!-- menu item -->
-                  <li class="menu-item current-menu-item"><a href="<?php echo base_url(); ?>home">Home</a></li>
-                  <li class="menu-item current-menu-item"><a href="<?php echo base_url(); ?>portfolio">Portfolio</a></li>
+                  <li class="menu-item"><a href="<?php echo base_url(); ?>home">Home</a></li>
+                  <li class="menu-item"><a href="<?php echo base_url(); ?>portfolio">Portfolio</a></li>
                   <!-- menu item -->
                   <!-- menu item -->
                   <li class="menu-item"><a href="<?php echo base_url(); ?>history">History</a></li>
