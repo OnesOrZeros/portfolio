@@ -1,31 +1,31 @@
 <?php $this->load->view('templates/header'); ?>
 
-        <!-- content //-->
+        <!-- content -->
         <div class="art-content">
 
-          <!-- curtain //-->
+          <!-- curtain -->
           <div class="art-curtain"></div>
 
-          <!-- top background //-->
+          <!-- top background -->
           <div class="art-top-bg" style="background-image: url(<?php echo base_url();?>/resources/img/bg.jpg)">
             <!-- overlay -->
             <div class="art-top-bg-overlay"></div>
             <!-- overlay end -->
           </div>
-          <!-- top background end //-->
+          <!-- top background end -->
 
 
-          <!-- swup container //-->
+          <!-- swup container -->
           <div class="transition-fade" id="swup">
 
-            <!-- scroll frame //-->
+            <!-- scroll frame -->
             <div id="scrollbar" class="art-scroll-frame">
 
 
-              <!-- container //-->
+              <!-- container -->
               <div class="container-fluid">
 
-                <!-- row //-->
+                <!-- row -->
                 <div class="row p-30-0">
 
                   <!-- col -->
@@ -163,48 +163,26 @@
                     </div>
                     <!-- grid item end -->
 
-                    </div>
-
-                </div>
-                <!-- row end //-->
                     
               </div>
-              <!-- container end //-->
+              <!-- container end -->
 
-              <!-- container //-->
+              <!-- container -->
               <div class="container-fluid">
 
-                <!-- row -->
-                <div class="row">
-
-                   <!-- col -->
-                   <div class="col-6 col-lg-3">
-                    <!-- brand -->
-                    <img class="art-brand" src="<?php echo base_url();?>/resources/img/brands/1.png" alt="brand">
-                  </div>
-                  <!-- col end -->
-
-                  <!-- col -->
-                  <div class="col-6 col-lg-3">
-                    <!-- brand -->
-                    <img class="art-brand" src="<?php echo base_url();?>/resources/img/brands/2.png" alt="brand">
-                  </div>
-                  <!-- col end -->
-
-                </div>
-                <!-- row end -->
+               
 
             </div>
-              <!-- container end //-->
+              <!-- container end -->
 
               </div>
-            <!-- scroll frame end //-->
+            <!-- scroll frame end -->
 
           </div>
-          <!-- swup container end //-->
+          <!-- swup container end -->
 
         </div>
-        <!-- content end //-->
+        <!-- content end -->
 
            
 <?php $this->load->view('templates/footer'); ?>
