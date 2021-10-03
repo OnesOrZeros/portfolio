@@ -167,22 +167,5 @@
               </div>
               <!-- container end -->
 
-              <!-- container -->
-              <div class="container-fluid">
-
-               
-
-            </div>
-              <!-- container end -->
-
-              </div>
-            <!-- scroll frame end -->
-
-          </div>
-          <!-- swup container end -->
-
-        </div>
-        <!-- content end -->
-
            
 <?php $this->load->view('templates/footer'); ?>
