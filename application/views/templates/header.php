@@ -428,15 +428,15 @@
             <!-- sidebar social -->
             <div class="art-ls-social">
                <!-- social link -->
-               <a href="tel:+254725807288" target="_blank"><i class="fas fa-phone"></i></a>
+               <a rel="noreferrer" href="tel:+254725807288" target="_blank"><i class="fas fa-phone"></i></a>
                 <!-- social link -->
-              <a href="mailto:info@mwauragitonga.com" target="_blank"><i class="fas fa-envelope"></i></a>
+              <a rel="noreferrer" href="mailto:info@mwauragitonga.com" target="_blank"><i class="fas fa-envelope"></i></a>
               <!-- social link -->
-              <a href="https://twitter.com/__Gitonga?t=bxYcBRnlP7cZ1iOL9dLJUg&s=09" target="_blank"><i class="fab fa-twitter"></i></a>
+              <a rel="noreferrer" href="https://twitter.com/__Gitonga?t=bxYcBRnlP7cZ1iOL9dLJUg&s=09" target="_blank"><i class="fab fa-twitter"></i></a>
               <!-- social link -->
-              <a href="https://www.linkedin.com/in/mwaura-kelvin-gitonga-3a3b07171/" target="_blank"><i class="fab fa-linkedin"></i></a>
+              <a rel="noreferrer" href="https://www.linkedin.com/in/mwaura-kelvin-gitonga-3a3b07171/" target="_blank"><i class="fab fa-linkedin"></i></a>
               <!-- social link -->
-              <a href="https://github.com/mwauragitonga" target="_blank"><i class="fab fa-github"></i></a>
+              <a rel="noreferrer" href="https://github.com/mwauragitonga" target="_blank"><i class="fab fa-github"></i></a>
             </div>
             <!-- sidebar social end -->
 
