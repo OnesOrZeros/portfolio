@@ -44,16 +44,16 @@
                   </div>
                   <!-- col end -->
                   <!-- col -->
-                  <div class="col-lg-4">
+                  <div class="col-lg-3">
                     <!-- contact card -->
                     <div class="art-a art-card">
                       <div class="art-table p-15-15">
                         <ul>
                           <li>
-                            <h6>Country:</h6><span>Kenya</span>
+                          <i class="fas fa-flag"></i><span>Country:</span><h6>Kenya</h6>
                           </li>
                           <li>
-                            <h6>City:</h6><span>Nairobi</span>
+                          <i class="fas fa-city"></i><span>City:</span><h6>Nairobi</h6>
                           </li>
 
                         </ul>
@@ -63,16 +63,16 @@
                   </div>
                   <!-- col end -->
                   <!-- col -->
-                  <div class="col-lg-4">
+                  <div class="col-lg-5">
                     <!-- contact card -->
                     <div class="art-a art-card">
                       <div class="art-table p-15-15">
                         <ul>
                           <li>
-                            <h6>Personal:</h6><span><a href="mailto:mwauragitonga12@gmail.com" target="_blank">mwauragitonga12@gmail.com</a></span>
+                          <i class="fas fa-envelope"></i><span>Personal:</span><a href="mailto:mwauragitonga12@gmail.com" target="_blank"><h6>mwauragitonga12@gmail.com</h6></a>
                           </li>
                           <li>
-                            <h6>Office:</h6><span><a href="mailto:info@mwauragitonga.com" target="_blank">info@mwauragitonga.com</a></span>
+                          <i class="fas fa-briefcase"></i><span>Office:</span><a href="mailto:info@mwauragitonga.com" target="_blank"><h6>info@mwauragitonga.com</h6></a>
                           </li>
                         </ul>
                       </div>
@@ -87,13 +87,13 @@
                       <div class="art-table p-15-15">
                         <ul>
                           <li>
-                            <h6>Phone:</h6><span> <a href="tel:+254725807288" target="_blank">(+254) 725-807-288</a></span>
+                          <i class="fas fa-phone"></i><span>Phone:</span> <a href="tel:+254725807288" target="_blank"><h6>(+254) 725-807-288</h6></a>
                           </li>
                           <li>
-                            <h6>Skype:</h6><span><a href="skype:mwauragitonga12?chat" target="_blank">mwauragitonga12</a></span>
+                          <i class="fab fa-skype"></i><span>Skype:</span><a href="skype:mwauragitonga12?chat" target="_blank"><h6>mwauragitonga12</h6></a>
                           </li>
                           <li>
-                            <h6>Twitter:</h6><span><a href="https://twitter.com/__Gitonga?t=bxYcBRnlP7cZ1iOL9dLJUg&s=09" target="_blank">@__Gitonga</a></span>
+                          <i class="fab fa-twitter"></i><span>Twitter:</span><a href="https://twitter.com/__Gitonga?t=bxYcBRnlP7cZ1iOL9dLJUg&s=09" target="_blank"><h6>@__Gitonga</h6></a>
                           </li>
                         </ul>
                       </div>
