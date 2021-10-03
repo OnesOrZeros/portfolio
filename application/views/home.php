@@ -54,11 +54,8 @@
                         </div>
                         <!-- main title end -->
                         <!-- photo -->
-<<<<<<< HEAD
-                        <img src="<?php echo base_url();?>/resources/img/prof1.jpg" class="art-banner-photo" alt="Your Name">
-=======
                         <img src="<?php echo base_url();?>/resources/img/face-3.jpg" class="art-banner-photo" alt="Your Name">
->>>>>>> portfolio/kevo
+
                       </div>
                       <!-- banner overlay end -->
                     </div>
@@ -143,7 +140,7 @@
                       <!-- counter -->
                       <div class="art-counter-box">
                         <!-- counter number -->
-                        <span class="art-counter">100000</span><span class="art-counter-plus">s</span>
+                        <span class="art-counter">10000</span><span class="art-counter-plus">+</span>
                       </div>
                       <!-- counter end -->
                       <!-- title -->
