@@ -244,6 +244,8 @@ info bar
 
       & .art-line-progress {
         width: 100%;
+        & .art-line-progress1 {
+          width: 100%;
 
         & .progressbar-text {
           width: 100%;
@@ -253,6 +255,8 @@ info bar
           color: $text-color-2 !important;
         }
       }
+      }
+      
     }
   }
   /* ----- knowledge ----- */

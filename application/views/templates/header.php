@@ -196,6 +196,14 @@
                 </div>
                 <!-- skill end -->
 
+              </div> 
+
+                <!-- divider -->
+              <div class="art-ls-divider"></div>
+
+              <!-- hard skills -->
+              <div class="art-hard-skills p-30-15">
+
                 <!-- skill -->
                 <div class="art-hard-skills-item">
                   <div class="art-skill-heading">
@@ -226,11 +234,11 @@
                 </div>
                 <!-- skill end -->
 
-                     <!-- skill -->
-                     <div class="art-hard-skills-item">
+                <!-- skill -->
+                <div class="art-hard-skills-item">
                   <div class="art-skill-heading">
                     <!-- title -->
-                    <h6>Android</h6>
+                    <h6>Vue</h6>
                   </div>
                   <!-- progressbar frame -->
                   <div class="art-line-progress">
@@ -241,11 +249,11 @@
                 </div>
                 <!-- skill end -->
 
-                <!-- skill -->
-                <div class="art-hard-skills-item">
+                 <!-- skill -->
+                 <div class="art-hard-skills-item">
                   <div class="art-skill-heading">
                     <!-- title -->
-                    <h6>Flutter</h6>
+                    <h6>React</h6>
                   </div>
                   <!-- progressbar frame -->
                   <div class="art-line-progress">
@@ -260,7 +268,7 @@
                 <div class="art-hard-skills-item">
                   <div class="art-skill-heading">
                     <!-- title -->
-                    <h6>Java</h6>
+                    <h6>Jupyter</h6>
                   </div>
                   <!-- progressbar frame -->
                   <div class="art-line-progress">
@@ -286,11 +294,19 @@
                 </div>
                 <!-- skill end -->
 
+              </div> 
+
+              <!-- divider -->
+              <div class="art-ls-divider"></div>
+
+              <!-- hard skills -->
+              <div class="art-hard-skills p-30-15">
+
                 <!-- skill -->
                 <div class="art-hard-skills-item">
                   <div class="art-skill-heading">
                     <!-- title -->
-                    <h6>PostgreSQL</h6>
+                    <h6>Android</h6>
                   </div>
                   <!-- progressbar frame -->
                   <div class="art-line-progress">
@@ -301,11 +317,11 @@
                 </div>
                 <!-- skill end -->
 
-                     <!-- skill -->
-                     <div class="art-hard-skills-item">
+                <!-- skill -->
+                <div class="art-hard-skills-item">
                   <div class="art-skill-heading">
                     <!-- title -->
-                    <h6>SQL Server</h6>
+                    <h6>Flutter</h6>
                   </div>
                   <!-- progressbar frame -->
                   <div class="art-line-progress">
@@ -320,7 +336,7 @@
                 <div class="art-hard-skills-item">
                   <div class="art-skill-heading">
                     <!-- title -->
-                    <h6>MySQL</h6>
+                    <h6>Java</h6>
                   </div>
                   <!-- progressbar frame -->
                   <div class="art-line-progress">
@@ -331,11 +347,19 @@
                 </div>
                 <!-- skill end -->
 
+                </div> 
+
+                <!-- divider -->
+                <div class="art-ls-divider"></div>
+
+                <!-- hard skills -->
+                <div class="art-hard-skills p-30-15">
+                  
                 <!-- skill -->
                 <div class="art-hard-skills-item">
                   <div class="art-skill-heading">
                     <!-- title -->
-                    <h6>JQuery</h6>
+                    <h6>PostgreSQL</h6>
                   </div>
                   <!-- progressbar frame -->
                   <div class="art-line-progress">
@@ -346,11 +370,11 @@
                 </div>
                 <!-- skill end -->
 
-                <!-- skill -->
-                <div class="art-hard-skills-item">
+                     <!-- skill -->
+                     <div class="art-hard-skills-item">
                   <div class="art-skill-heading">
                     <!-- title -->
-                    <h6>Jupyter</h6>
+                    <h6>SQL Server</h6>
                   </div>
                   <!-- progressbar frame -->
                   <div class="art-line-progress">
@@ -365,7 +389,7 @@
                 <div class="art-hard-skills-item">
                   <div class="art-skill-heading">
                     <!-- title -->
-                    <h6>MSSQL</h6>
+                    <h6>MySQL</h6>
                   </div>
                   <!-- progressbar frame -->
                   <div class="art-line-progress">
@@ -376,11 +400,11 @@
                 </div>
                 <!-- skill end -->
 
-                 <!-- skill -->
-                 <div class="art-hard-skills-item">
+                <!-- skill -->
+                <div class="art-hard-skills-item">
                   <div class="art-skill-heading">
                     <!-- title -->
-                    <h6>Vue</h6>
+                    <h6>JQuery</h6>
                   </div>
                   <!-- progressbar frame -->
                   <div class="art-line-progress">
@@ -391,11 +415,13 @@
                 </div>
                 <!-- skill end -->
 
-                 <!-- skill -->
-                 <div class="art-hard-skills-item">
+                
+
+                <!-- skill -->
+                <div class="art-hard-skills-item">
                   <div class="art-skill-heading">
                     <!-- title -->
-                    <h6>React</h6>
+                    <h6>MSSQL</h6>
                   </div>
                   <!-- progressbar frame -->
                   <div class="art-line-progress">
@@ -405,9 +431,6 @@
                   <!-- progressbar frame end -->
                 </div>
                 <!-- skill end -->
-
-              
-
               </div>
               <!-- language skills end -->
 
