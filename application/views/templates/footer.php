@@ -19,8 +19,11 @@
               </div>
               <!-- container end -->
 
+<<<<<<< HEAD
            
 
+=======
+>>>>>>> parent of 5a57f4b (update footer)
         <!-- menu bar -->
         <div class="art-menu-bar">
 
