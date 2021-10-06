@@ -5,10 +5,29 @@
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+     <!-- SEO Meta Tags -->
+    <meta name="description" content="I am Mwaura Kelvin Gitonga a Software Engineer">
+    <meta name="author" content="Mwaura Kelvin Gitonga">
+
+    <meta content="Mwaura Kelvin Gitonga software-development web-development android-development graphics-design ui-ux home-automation hosting data-analytics IT-consultancy" name="keywords">
+    <meta content="I am Mwaura Kelvin Gitonga and my ultimate goal is to make a significant contribution towards
+    developing sustainable and efficient solutions to problems facing humanity through the application of computing
+    skills." name="description">
+
+    <!-- OG Meta Tags to improve the way the post looks when you share the page on Facebook, Twitter, LinkedIn -->
+	<meta property="og:site_name" content="Mwaura Gitonga Kelvin" /> <!-- website name -->
+	<meta property="og:site" content="www.mwaoragitonga.com" /> <!-- website link -->
+	<meta property="og:title" content="Personal Portfolio"/> <!-- title shown in the actual shared post -->
+	<meta property="og:description" content="I am Mwaura Kelvin Gitonga a Software Engineer" /> <!-- description shown in the actual shared post -->
+	<meta property="og:image" content="" /> <!-- image link, make sure it's jpg -->
+	<meta property="og:url" content="www.mwaoragitonga.com" /> <!-- where do you want your post to link to -->
+
+
   <!-- color of address bar in mobile browser -->
   <meta name="theme-color" content="#2B2B35">
   <!-- favicon  -->
-  <link rel="shortcut icon" href="<?php echo base_url();?>/resources/img/thumbnail.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="<?php echo base_url();?>/resources/img/icons/m-icon.png" type="image/x-icon">
   <!-- bootstrap css -->
   <link rel="stylesheet" href="<?php echo base_url();?>/resources/css/plugins/bootstrap.min.css">
   <!-- font awesome css -->
@@ -25,16 +44,16 @@
 
 <body>
 
-  <!-- app -->
+  <!-- app // -->
   <div class="art-app">
 
     <!-- mobile top bar -->
     <div class="art-mobile-top-bar"></div>
 
-    <!-- app wrapper -->
+    <!-- app wrapper  //-->
     <div class="art-app-wrapper">
 
-      <!-- app container end -->
+      <!-- app container end  //-->
       <div class="art-app-container">
 
         <!-- info bar -->
@@ -87,13 +106,13 @@
                 <!-- about text -->
                 <ul>
                   <!-- country -->
-                  <li>
-                  <img style="height:55px; width:64px;" src="<?php echo base_url();?>/resources/img/brands/1.png" alt="brand">
+                  <li style="padding: 10px;">
+                  <img style="height:65px; width:74px;" src="<?php echo base_url();?>/resources/img/brands/1.png" alt="brand">
                     <h6 style="padding: 10px;">CISCO Certified DevNet Associate</h6>
                   </li>
                   <!-- city -->
-                  <li>
-                 <img style="height:55px; width:64px;" src="<?php echo base_url();?>/resources/img/brands/2.png" alt="brand">
+                  <li style="padding: 10px;">
+                 <img style="height:55px; width:74px;" src="<?php echo base_url();?>/resources/img/brands/2.png" alt="brand">
                     <h6 style="padding: 10px;">CISCO Certified DevNet Specialist</h6>
                     
                   </li>
@@ -177,11 +196,19 @@
                 </div>
                 <!-- skill end -->
 
+              </div> 
+
+                <!-- divider -->
+              <div class="art-ls-divider"></div>
+
+              <!-- hard skills -->
+              <div class="art-hard-skills p-30-15">
+
                 <!-- skill -->
                 <div class="art-hard-skills-item">
                   <div class="art-skill-heading">
                     <!-- title -->
-                    <h6>Javascript</h6>PHP
+                    <h6>Javascript</h6>
                   </div>
                   <!-- progressbar frame -->
                   <div class="art-line-progress">
@@ -207,11 +234,11 @@
                 </div>
                 <!-- skill end -->
 
-                     <!-- skill -->
-                     <div class="art-hard-skills-item">
+                <!-- skill -->
+                <div class="art-hard-skills-item">
                   <div class="art-skill-heading">
                     <!-- title -->
-                    <h6>Android</h6>
+                    <h6>Vue</h6>
                   </div>
                   <!-- progressbar frame -->
                   <div class="art-line-progress">
@@ -222,11 +249,11 @@
                 </div>
                 <!-- skill end -->
 
-                <!-- skill -->
-                <div class="art-hard-skills-item">
+                 <!-- skill -->
+                 <div class="art-hard-skills-item">
                   <div class="art-skill-heading">
                     <!-- title -->
-                    <h6>Flutter</h6>
+                    <h6>React</h6>
                   </div>
                   <!-- progressbar frame -->
                   <div class="art-line-progress">
@@ -241,7 +268,7 @@
                 <div class="art-hard-skills-item">
                   <div class="art-skill-heading">
                     <!-- title -->
-                    <h6>Java</h6>
+                    <h6>Jupyter</h6>
                   </div>
                   <!-- progressbar frame -->
                   <div class="art-line-progress">
@@ -267,11 +294,19 @@
                 </div>
                 <!-- skill end -->
 
+              </div> 
+
+              <!-- divider -->
+              <div class="art-ls-divider"></div>
+
+              <!-- hard skills -->
+              <div class="art-hard-skills p-30-15">
+
                 <!-- skill -->
                 <div class="art-hard-skills-item">
                   <div class="art-skill-heading">
                     <!-- title -->
-                    <h6>PostgreSQL</h6>
+                    <h6>Android</h6>
                   </div>
                   <!-- progressbar frame -->
                   <div class="art-line-progress">
@@ -282,11 +317,11 @@
                 </div>
                 <!-- skill end -->
 
-                     <!-- skill -->
-                     <div class="art-hard-skills-item">
+                <!-- skill -->
+                <div class="art-hard-skills-item">
                   <div class="art-skill-heading">
                     <!-- title -->
-                    <h6>SQL Server</h6>
+                    <h6>Flutter</h6>
                   </div>
                   <!-- progressbar frame -->
                   <div class="art-line-progress">
@@ -301,7 +336,7 @@
                 <div class="art-hard-skills-item">
                   <div class="art-skill-heading">
                     <!-- title -->
-                    <h6>MySQL</h6>
+                    <h6>Java</h6>
                   </div>
                   <!-- progressbar frame -->
                   <div class="art-line-progress">
@@ -312,11 +347,19 @@
                 </div>
                 <!-- skill end -->
 
+                </div> 
+
+                <!-- divider -->
+                <div class="art-ls-divider"></div>
+
+                <!-- hard skills -->
+                <div class="art-hard-skills p-30-15">
+                  
                 <!-- skill -->
                 <div class="art-hard-skills-item">
                   <div class="art-skill-heading">
                     <!-- title -->
-                    <h6>JQuery</h6>
+                    <h6>PostgreSQL</h6>
                   </div>
                   <!-- progressbar frame -->
                   <div class="art-line-progress">
@@ -327,11 +370,11 @@
                 </div>
                 <!-- skill end -->
 
-                <!-- skill -->
-                <div class="art-hard-skills-item">
+                     <!-- skill -->
+                     <div class="art-hard-skills-item">
                   <div class="art-skill-heading">
                     <!-- title -->
-                    <h6>Jupyter</h6>
+                    <h6>SQL Server</h6>
                   </div>
                   <!-- progressbar frame -->
                   <div class="art-line-progress">
@@ -346,7 +389,7 @@
                 <div class="art-hard-skills-item">
                   <div class="art-skill-heading">
                     <!-- title -->
-                    <h6>MSSQL</h6>
+                    <h6>MySQL</h6>
                   </div>
                   <!-- progressbar frame -->
                   <div class="art-line-progress">
@@ -357,11 +400,11 @@
                 </div>
                 <!-- skill end -->
 
-                 <!-- skill -->
-                 <div class="art-hard-skills-item">
+                <!-- skill -->
+                <div class="art-hard-skills-item">
                   <div class="art-skill-heading">
                     <!-- title -->
-                    <h6>Vue</h6>
+                    <h6>JQuery</h6>
                   </div>
                   <!-- progressbar frame -->
                   <div class="art-line-progress">
@@ -372,11 +415,13 @@
                 </div>
                 <!-- skill end -->
 
-                 <!-- skill -->
-                 <div class="art-hard-skills-item">
+                
+
+                <!-- skill -->
+                <div class="art-hard-skills-item">
                   <div class="art-skill-heading">
                     <!-- title -->
-                    <h6>React</h6>
+                    <h6>MSSQL</h6>
                   </div>
                   <!-- progressbar frame -->
                   <div class="art-line-progress">
@@ -386,9 +431,6 @@
                   <!-- progressbar frame end -->
                 </div>
                 <!-- skill end -->
-
-              
-
               </div>
               <!-- language skills end -->
 
@@ -417,7 +459,7 @@
               <div class="art-links-frame p-15-15">
 
                 <!-- download cv button -->
-                <a href="<?php echo base_url();?>/resources/files/cv.pdf" class="art-link" download>Download cv <i class="fas fa-download"></i></a>
+                <a  href="<?php echo base_url();?>/resources/files/cv.pdf" class="art-link" download>Download cv <i class="fas fa-download"></i></a>
 
               </div>
               <!-- links frame end -->
@@ -428,15 +470,15 @@
             <!-- sidebar social -->
             <div class="art-ls-social">
                <!-- social link -->
-               <a href="tel:+254725807288" target="_blank"><i class="fas fa-phone"></i></a>
+               <a rel="noreferrer" href="tel:+254725807288" target="_blank"><i class="fas fa-phone"></i></a>
                 <!-- social link -->
-              <a href="mailto:info@mwauragitonga.com" target="_blank"><i class="fas fa-envelope"></i></a>
+              <a rel="noreferrer" href="mailto:info@mwauragitonga.com" target="_blank"><i class="fas fa-envelope"></i></a>
               <!-- social link -->
-              <a href="https://twitter.com/__Gitonga?t=bxYcBRnlP7cZ1iOL9dLJUg&s=09" target="_blank"><i class="fab fa-twitter"></i></a>
+              <a rel="noreferrer" href="https://twitter.com/__Gitonga?t=bxYcBRnlP7cZ1iOL9dLJUg&s=09" target="_blank"><i class="fab fa-twitter"></i></a>
               <!-- social link -->
-              <a href="https://www.linkedin.com/in/mwaura-kelvin-gitonga-3a3b07171/" target="_blank"><i class="fab fa-linkedin"></i></a>
+              <a rel="noreferrer" href="https://www.linkedin.com/in/mwaura-kelvin-gitonga-3a3b07171/" target="_blank"><i class="fab fa-linkedin"></i></a>
               <!-- social link -->
-              <a href="https://github.com/mwauragitonga" target="_blank"><i class="fab fa-github"></i></a>
+              <a rel="noreferrer" href="https://github.com/mwauragitonga" target="_blank"><i class="fab fa-github"></i></a>
             </div>
             <!-- sidebar social end -->
 

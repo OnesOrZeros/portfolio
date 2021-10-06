@@ -1122,7 +1122,7 @@ info bar
   text-align: center;
   margin-bottom: 15px;
 }
-.art-info-bar .art-lang-skills .art-lang-skills-item .art-cirkle-progress {
+.art-info-bar .art-lang-skills .art-lang-skills-item .art-cirkle-progress  {
   width: 65%;
   margin: 0 auto 15px;
 }
@@ -1152,7 +1152,17 @@ info bar
 .art-info-bar .art-hard-skills .art-hard-skills-item .art-line-progress {
   width: 100%;
 }
+.art-line-progress1 .art-line-progress2{
+  width: 100%;
+}
 .art-info-bar .art-hard-skills .art-hard-skills-item .art-line-progress .progressbar-text {
+  width: 100%;
+  text-align: right;
+  top: -6px !important;
+  font-size: 11px;
+  color: #8c8c8e !important;
+}
+.art-line-progress1 .art-line-progress2 .progressbar-text {
   width: 100%;
   text-align: right;
   top: -6px !important;
@@ -1230,12 +1240,27 @@ info bar
   stroke: #FFC107;
 }
 
+.art-line-progress1 path:first-child {
+  stroke: #191923;
+}
+.art-line-progress1 path:last-child {
+  stroke: #17e717;
+}
+
+.art-line-progress2 path:first-child {
+  stroke: #191923;
+}
+.art-line-progress2 path:last-child {
+  stroke: #64B5F6;
+}
+
 .art-cirkle-progress path:first-child {
   stroke: #191923;
 }
 .art-cirkle-progress path:last-child {
   stroke: #FFC107;
 }
+
 
 /* ------------------------------
 

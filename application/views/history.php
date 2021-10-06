@@ -53,7 +53,7 @@
                           <div class="art-a art-timeline-content">
                             <div class="art-card-header">
                               <div class="art-left-side">
-                                <h5>CISCO Certified DevNet Associate</h5>
+                                <h5 style="color: #FFC107;">CISCO Certified DevNet Associate</h5>
                                 <div class="art-el-suptitle mb-15"></div>
                               </div>
                               <div class="art-right-side">
@@ -64,7 +64,7 @@
                             software development and design, understanding and using APIs, application deployment and
                             security, and infrastructure and automation on Cisco platforms.
                             </p>
-                            <a data-fancybox="diplome" href="<?php echo base_url();?>/resources/files/certificate.jpg" class="art-link art-color-link art-w-chevron">Certificate</a>
+                            <a data-fancybox="diplome" href="" class="art-link art-color-link art-w-chevron">Certificate</a>
                           </div>
 
                         </div>
@@ -76,7 +76,7 @@
                           <div class="art-a art-timeline-content">
                             <div class="art-card-header">
                               <div class="art-left-side">
-                                <h5>CISCO Certified DevNet Specialist</h5>
+                                <h5 style="color: #FFC107;">CISCO Certified DevNet Specialist</h5>
                                 <div class="art-el-suptitle mb-15"></div>
                               </div>
                               <div class="art-right-side">
@@ -86,7 +86,7 @@
                             <p>Earners of Cisco Certified DevNet Specialist - Core have demonstrated knowledge of software
                             development and design including using APIs, Cisco platforms, application deployment and security,
                             and infrastructure and automation.</p>
-                            <a data-fancybox="diplome" href="<?php echo base_url();?>/resources/files/certificate.jpg" class="art-link art-color-link art-w-chevron">Certificate</a>
+                            <a data-fancybox="diplome" href="" class="art-link art-color-link art-w-chevron">Certificate</a>
                           </div>
 
                         </div>
@@ -101,7 +101,7 @@
                         <div class="art-a art-timeline-content">
                           <div class="art-card-header">
                             <div class="art-left-side">
-                              <h5>Jomo Kenyatta University of Agriculture and Technology (JKUAT)</h5>
+                              <h5 style="color: #FFC107;">Jomo Kenyatta University of Agriculture and Technology (JKUAT)</h5>
                               <div class="art-el-suptitle mb-15">Student</div>
                             </div>
                             <div class="art-right-side">
@@ -110,7 +110,7 @@
                           </div>
 
                           <p>Bachelors of Science Computer Technology (Second class honours, upper division).</p>
-                          <a data-fancybox="diplome" href="<?php echo base_url();?>/resources/files/certificate.jpg" class="art-link art-color-link art-w-chevron">Bachelor's Degree</a>
+                          <a data-fancybox="diplome" href="" class="art-link art-color-link art-w-chevron">Bachelor's Degree</a>
                         </div>
                       </div>
 
@@ -121,7 +121,7 @@
                         <div class="art-a art-timeline-content">
                           <div class="art-card-header">
                             <div class="art-left-side">
-                              <h5>Mang’u High School</h5>
+                              <h5 style="color: #FFC107;">Mang’u High School</h5>
                               <div class="art-el-suptitle mb-15">Student</div>
                             </div>
                             <div class="art-right-side">
@@ -129,7 +129,7 @@
                             </div>
                           </div>
                           <div>Kenya Certificate of Secondary Education (A-minus)</div>
-                          <a data-fancybox="diplome" href="<?php echo base_url();?>/resources/files/certificate.jpg" class="art-link art-color-link art-w-chevron">Certificate</a>
+                          <a data-fancybox="diplome" href="" class="art-link art-color-link art-w-chevron">Certificate</a>
                         </div>
                       </div>
 
@@ -140,7 +140,7 @@
                         <div class="art-a art-timeline-content">
                           <div class="art-card-header">
                             <div class="art-left-side">
-                              <h5>Mary Immaculate Primary School</h5>
+                              <h5 style="color: #FFC107;">Mary Immaculate Primary School</h5>
                               <div class="art-el-suptitle mb-15">Student</div>
                             </div>
                             <div class="art-right-side">
@@ -148,7 +148,7 @@
                             </div>
                           </div>
                           <p>Kenya Certificate of Primary Education (417/500 marks)</p>
-                          <a data-fancybox="diplome" href="<?php echo base_url();?>/resources/files/certificate.jpg" class="art-link art-color-link art-w-chevron">Certificate</a>
+                          <a data-fancybox="diplome" href="" class="art-link art-color-link art-w-chevron">Certificate</a>
                         </div>
 
                       </div>
@@ -182,7 +182,7 @@
                         <div class="art-a art-timeline-content">
                           <div class="art-card-header">
                             <div class="art-left-side">
-                              <h5>FINSYS GROUP LIMITED</h5>
+                              <h5 style="color: #FFC107;">FINSYS GROUP LIMITED</h5>
                               <div class="art-el-suptitle mb-15">Software Developer Consultant</div>
                             </div>
                             <div class="art-right-side">
@@ -206,7 +206,7 @@
                         <div class="art-a art-timeline-content">
                           <div class="art-card-header">
                             <div class="art-left-side">
-                              <h5>CARREL TECHNOLOGIES LIMITED</h5>
+                              <h5 style="color: #FFC107;">CARREL TECHNOLOGIES LIMITED</h5>
                               <div class="art-el-suptitle mb-15">Software Developer Engineer</div>
                             </div>
                             <div class="art-right-side">
@@ -229,7 +229,7 @@
                         <div class="art-a art-timeline-content">
                           <div class="art-card-header">
                             <div class="art-left-side">
-                              <h5>NANYUKI WATER AND SEWERAGE COMPANY</h5>
+                              <h5 style="color: #FFC107;">NANYUKI WATER AND SEWERAGE COMPANY</h5>
                               <div class="art-el-suptitle mb-15">ICT Intern</div>
                             </div>
                             <div class="art-right-side">
@@ -248,7 +248,7 @@
                         <div class="art-a art-timeline-content">
                           <div class="art-card-header">
                             <div class="art-left-side">
-                              <h5>ELYON CONSTRUCTION LIMITED</h5>
+                              <h5 style="color: #FFC107;">ELYON CONSTRUCTION LIMITED</h5>
                               <div class="art-el-suptitle mb-15">ICT Intern</div>
                             </div>
                             <div class="art-right-side">
@@ -271,7 +271,7 @@
                               <!-- photo -->
                               <img class="art-testimonial-face" src="<?php echo base_url();?>/resources/img/testimonials/face-3.jpg" alt="face">
                               <!-- name -->
-                              <h5>Paul Trueman</h5>
+                              <h5 style="color: #FFC107;">Paul Trueman</h5>
                               <div class="art-el-suptitle mb-15">Template author</div>
                               <!-- text -->
                               <div class="mb-15">Working with Artur has been a pleasure. Better yet - I alerted them of a minor issue before going to sleep. The issue was fixed the next morning. I couldn't ask for better support. Thank you Artur!
@@ -308,32 +308,6 @@
                     </div>
                     <!-- timeline end -->
 
-                  </div>
-                  <!-- col end -->
-
-                </div>
-                <!-- row end -->
-
-              </div>
-              <!-- container end -->
-
-              <!-- container -->
-              <div class="container-fluid">
-
-                <!-- row -->
-                <div class="row">
-
-                  <!-- col -->
-                  <div class="col-6 col-lg-3">
-                    <!-- brand -->
-                    <img class="art-brand" src="<?php echo base_url();?>/resources/img/brands/1.png" alt="brand">
-                  </div>
-                  <!-- col end -->
-
-                  <!-- col -->
-                  <div class="col-6 col-lg-3">
-                    <!-- brand -->
-                    <img class="art-brand" src="<?php echo base_url();?>/resources/img/brands/2.png" alt="brand">
                   </div>
                   <!-- col end -->
 

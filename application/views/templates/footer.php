@@ -19,7 +19,7 @@
               </div>
               <!-- container end -->
 
-            </div>
+              </div>
             <!-- scroll frame end -->
 
           </div>
@@ -57,14 +57,30 @@
                 <!-- menu list -->
                 <ul class="main-menu">
                   <!-- menu item -->
-                  <li class="menu-item current-menu-item"><a href="<?php echo base_url(); ?>home">Home</a></li>
-                  <li class="menu-item current-menu-item"><a href="<?php echo base_url(); ?>portfolio">Portfolio</a></li>
+                  <li class="menu-item"><a href="<?php echo base_url(); ?>home">Home</a></li>
+                  <li class="menu-item"><a href="<?php echo base_url(); ?>portfolio">Portfolio</a></li>
                   <!-- menu item -->
                   <!-- menu item -->
                   <li class="menu-item"><a href="<?php echo base_url(); ?>history">History</a></li>
                   <!-- menu item -->
                   <li class="menu-item"><a href="<?php echo base_url(); ?>contact">Contact</a></li>
+<<<<<<< HEAD
                   
+=======
+
+                  <!-- menu item -->
+                 
+                  <!-- menu item 
+                  <li class="menu-item"><a href="<?php echo base_url(); ?>onepage" target="_blank">Onepage</a></li>
+                  -->
+
+                  <!-- menu item -->
+
+                  <!-- menu item 
+                  <li class="menu-item"><a href="<?php echo base_url(); ?>onepage" target="_blank">Onepage</a></li>
+                  -->
+
+>>>>>>> portfolio/kevo
                 </ul>
                 <!-- menu list end -->
               </nav>

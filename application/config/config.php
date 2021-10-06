@@ -26,6 +26,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 $config['base_url'] = 'http://localhost/portfolio/';
 
 /*
+$config['base_url'] = 'https://www.mwauragitonga.com/';
+$config['base_url'] = 'http://localhost/portfolio/';
 |--------------------------------------------------------------------------
 | Index File
 |--------------------------------------------------------------------------
