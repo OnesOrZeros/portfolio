@@ -54,11 +54,7 @@
                         </div>
                         <!-- main title end -->
                         <!-- photo -->
-<<<<<<< HEAD
                         <img src="<?php echo base_url();?>/resources/img/prof1.jpg" class="art-banner-photo" alt="Your Name">
-=======
-                        <img src="<?php echo base_url();?>/resources/img/face-3.jpg" class="art-banner-photo" alt="Your Name">
->>>>>>> portfolio/kevo
                       </div>
                       <!-- banner overlay end -->
                     </div>
@@ -224,6 +220,27 @@
 
                   </div>
                   <!-- col end -->
+
+                 <!-- col -->
+                 <div class="col-lg-4 col-md-6">
+
+                    <!-- service -->
+                      <div class="art-a art-service-icon-box">
+                        <!-- service content -->
+                          <div class="art-service-ib-content">
+                            <!-- title -->
+                            <h5 class="mb-15">SEO</h5>
+                            <!-- text -->
+                            <div class="mb-15">Let people notice your brand by optimizing your website.</div>
+                            <!-- button -->
+                            <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
+                          </div>
+                        <!-- service content end -->
+                      </div>
+                    <!-- service end -->
+
+                  </div>
+                  <!-- col end -->                  
 
                   <!-- col -->
                   <div class="col-lg-4 col-md-6">
