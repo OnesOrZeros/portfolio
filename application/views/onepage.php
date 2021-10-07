@@ -219,7 +219,6 @@
                   </div>
                   <!-- col end -->
 
-<<<<<<< HEAD
                  <!-- col -->
                  <div class="col-lg-4 col-md-6">
 
@@ -241,8 +240,6 @@
                   </div>
                   <!-- col end -->                  
 
-=======
->>>>>>> portfolio/kevo
                   <!-- col -->
                   <div class="col-lg-4 col-md-6">
 
