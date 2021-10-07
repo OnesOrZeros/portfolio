@@ -2,6 +2,7 @@
 
         <!-- content -->
         <div class="art-content">
+          
 
           <!-- curtain -->
           <div class="art-curtain"></div>

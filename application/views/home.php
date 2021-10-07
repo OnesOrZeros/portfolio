@@ -38,15 +38,16 @@
                       <div class="art-banner-back"></div>
                       <!-- banner dec -->
                       <div class="art-banner-dec"></div>
+                      
                       <!-- banner overlay -->
                       <div class="art-banner-overlay">
                         <!-- main title -->
                         <div class="art-banner-title">
                           <!-- title -->
-                          <h1 class="mb-15">Changing the World  <br>With Each Line of Code.</h1>
+                          <h1 class="mb-15">Changing <br> the World  <br>With Each Line <br> of Code.</h1>
                           <!-- suptitle -->
                           <div class="art-lg-text art-code mb-25">&lt;<i>code</i>&gt; I build <span class="txt-rotate" data-period="2000"
-                              data-rotate='[ "web interfaces.", "great software.", "android applications.", "design mocups.", "automation tools." ]'></span>&lt;/<i>code</i>&gt;</div>
+                              data-rotate='[ "web interfaces.", "great software.", "android applications."]'></span>&lt;/<i>code</i>&gt;</div>
                           <div class="art-buttons-frame">
                             <!-- button -->
                             <a href="<?php echo base_url(); ?>portfolio" class="art-btn art-btn-md"><span>Explore now</span></a>
@@ -54,7 +55,7 @@
                         </div>
                         <!-- main title end -->
                         <!-- photo -->
-                        <img src="<?php echo base_url();?>/resources/img/face-3.jpg" class="art-banner-photo" alt="Your Name">
+                        <img style="" src="<?php echo base_url();?>/resources/img/face-2.jpg" class="art-banner-photo" alt="Your Name">
 
                       </div>
                       <!-- banner overlay end -->

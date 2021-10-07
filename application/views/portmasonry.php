@@ -163,9 +163,10 @@
                     </div>
                     <!-- grid item end -->
 
+                  </div>
+                </div>
                     
               </div>
               <!-- container end -->
-
            
 <?php $this->load->view('templates/footer'); ?>
