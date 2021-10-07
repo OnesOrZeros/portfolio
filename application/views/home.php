@@ -54,12 +54,7 @@
                         </div>
                         <!-- main title end -->
                         <!-- photo -->
-<<<<<<< HEAD
                         <img src="<?php echo base_url();?>/resources/img/prof1.jpg" class="art-banner-photo" alt="Your Name">
-=======
-                        <img src="<?php echo base_url();?>/resources/img/face-3.jpg" class="art-banner-photo" alt="Your Name">
-
->>>>>>> portfolio/kevo
                       </div>
                       <!-- banner overlay end -->
                     </div>
@@ -144,11 +139,7 @@
                       <!-- counter -->
                       <div class="art-counter-box">
                         <!-- counter number -->
-<<<<<<< HEAD
                         <span class="art-counter">100000</span><span class="art-counter-plus">s</span>
-=======
-                        <span class="art-counter">10000</span><span class="art-counter-plus">+</span>
->>>>>>> portfolio/kevo
                       </div>
                       <!-- counter end -->
                       <!-- title -->
@@ -200,7 +191,7 @@
                         <!-- text -->
                         <div class="mb-15">Development of responsive websites and custom web based software solutions.</div>
                         <!-- button -->
-                        <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
+                        <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Request Quote</a></div>
                       </div>
                       <!-- service content end -->
                     </div>
@@ -221,7 +212,7 @@
                                 <!-- text -->
                                 <div class="mb-15">Design of classic user interfaces ensuring the best user experiences.</div>
                                 <!-- button -->
-                                <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
+                                <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Request Quote</a></div>
                             </div>
                           <!-- service content end -->
                         </div>
@@ -230,7 +221,6 @@
                   </div>
                   <!-- col end -->
 
-<<<<<<< HEAD
                  <!-- col -->
                  <div class="col-lg-4 col-md-6">
 
@@ -243,7 +233,7 @@
                             <!-- text -->
                             <div class="mb-15">Let people notice your brand by optimizing your website.</div>
                             <!-- button -->
-                            <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
+                            <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Request Quote</a></div>
                           </div>
                         <!-- service content end -->
                       </div>
@@ -252,8 +242,6 @@
                   </div>
                   <!-- col end -->                  
 
-=======
->>>>>>> portfolio/kevo
                   <!-- col -->
                   <div class="col-lg-4 col-md-6">
 
@@ -266,7 +254,7 @@
                               <!-- text -->
                               <div class="mb-15">I design, build and deploy android apps to help our clients.</div>
                               <!-- button -->
-                              <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
+                              <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Request Quote</a></div>
                             </div>
                           <!-- service content end -->
                         </div>
@@ -287,7 +275,7 @@
                               <!-- text -->
                               <div class="mb-15">We build custom software solutions for all business needs including web-based and desktop applications.</div>
                               <!-- button -->
-                              <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
+                              <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Request Quote</a></div>
                             </div>
                           <!-- service content end -->
                         </div>
@@ -304,11 +292,11 @@
                         <!-- service content -->
                           <div class="art-service-ib-content">
                             <!-- title -->
-                            <h5 class="mb-15">Software Development</h5>
+                            <h5 class="mb-15">Application Maintenance</h5>
                             <!-- text -->
-                            <div class="mb-15">We build custom software solutions for all business needs including web-based and desktop applications.</div>
+                            <div class="mb-15">Forget any maintenance troubles for your small or huge application and let us do the toiling for you.</div>
                             <!-- button -->
-                            <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
+                            <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Request Quote</a></div>
                           </div>
                         <!-- service content end -->
                       </div>
@@ -325,11 +313,11 @@
                       <!-- service content -->
                       <div class="art-service-ib-content">
                         <!-- title -->
-                        <h5 class="mb-15">Application Hosting & Maintenance</h5>
+                        <h5 class="mb-15">Application Hosting</h5>
                         <!-- text -->
-                        <div class="mb-15">Forget any hosting and maintenance troubles for your small or huge application and let us do the toiling for you.</div>
+                        <div class="mb-15">Forget any hosting troubles for your small or huge application and let us do the toiling for you.</div>
                         <!-- button -->
-                        <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
+                        <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Request Quote</a></div>
                       </div>
                       <!-- service content end -->
                     </div>
@@ -350,7 +338,7 @@
                         <!-- text -->
                         <div class="mb-15">We will help you automate processes and devices in your house or office easily using Alexa, Siri or Google.</div>
                         <!-- button -->
-                        <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
+                        <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Request Quote</a></div>
                       </div>
                       <!-- service content end -->
                     </div>
@@ -371,7 +359,7 @@
                         <!-- text -->
                         <div class="mb-15">Analyze and visualize your organization's data to develop insights that will help you grow your business.</div>
                         <!-- button -->
-                        <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
+                        <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Request Quote</a></div>
                       </div>
                       <!-- service content end -->
                     </div>
@@ -392,7 +380,7 @@
                         <!-- text -->
                         <div class="mb-15">Develop and maintain your systems and applications to ensure availability, great perfomance and efficiency.</div>
                         <!-- button -->
-                        <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
+                        <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Request Quote</a></div>
                       </div>
                       <!-- service content end -->
                     </div>
@@ -413,7 +401,7 @@
                                <!-- text -->
                                <div class="mb-15">Improve your business presence online and across various social media platforms to reach more customers.</div>
                                  <!-- button -->
-                                 <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
+                                 <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Request Quote</a></div>
                               </div>
                             <!-- service content end -->
                           </div>
@@ -434,7 +422,7 @@
                             <!-- text -->
                             <div class="mb-15">Provide professional consultancy services on all matters technology or data to individuals or businesses that want to leverage the power of tech.</div>
                             <!-- button -->
-                            <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
+                            <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Request Quote</a></div>
                           </div>
                         <!-- service content end -->
                       </div>
@@ -473,7 +461,6 @@
 
                   </div>
                   <!-- col end -->
-<<<<<<< HEAD
 
                   <!-- col -->
                   <div class="col-lg-4">
@@ -485,25 +472,25 @@
                         <h5 class="mb-30">Starter Price</h5>
                         <!-- price cost -->
                         <div class="art-price-cost">
-                          <div class="art-number">FREE<sup>*</sup></div>
+                          <div class="art-number">Order Now<sup>*</sup></div>
                         </div>
                         <!-- price cost end -->
                         <!-- price list -->
                         <ul class="art-price-list">
                           <!-- list item -->
-                          <li>Ui Design</li>
+                          <li>Home Automation</li>
                           <!-- list item -->
-                          <li>Web Development</li>
+                          <li>DevOps</li>
                           <!-- list item -->
-                          <li class="art-empty-item">Logo design</li>
+                          <li class="art-empty-item">Data Analytics & Visualization</li>
                           <!-- list item -->
-                          <li class="art-empty-item">SEO optimization</li>
+                          <li class="art-empty-item">Application Hosting </li>
                           <!-- list item -->
-                          <li class="art-empty-item">Wordpress integration</li>
+                          <li class="art-empty-item">Application Maintenance</li>
                         </ul>
                         <!-- price list end -->
                         <!-- button -->
-                        <a href="/contact.html" class="art-link art-color-link art-w-chevron">Order now</a>
+                        <a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Request Quote</a>
                         <div class="art-asterisk"><sup>*</sup>Free only when ordering paid services</div>
                       </div>
                       <!-- price body end -->
@@ -523,25 +510,25 @@
                         <h5 class="mb-30">Hourly payment</h5>
                         <!-- price cost -->
                         <div class="art-price-cost">
-                          <div class="art-number"><span>$</span>29<span>h</span></div>
+                          <div class="art-number">Order Now<sup>*</sup></div>
                         </div>
                         <!-- price cost end -->
                         <!-- price list -->
                         <ul class="art-price-list">
                           <!-- list item -->
-                          <li>Ui Design</li>
+                          <li>Software Development</li>
                           <!-- list item -->
-                          <li>Web Development</li>
+                          <li>Android Development</li>
                           <!-- list item -->
-                          <li>Logo design</li>
+                          <li>IT Consultancy</li>
                           <!-- list item -->
                           <li class="art-empty-item">SEO optimization</li>
                           <!-- list item -->
-                          <li class="art-empty-item">Wordpress integration</li>
+                          <li class="art-empty-item">Digital Marketing</li>
                         </ul>
                         <!-- price list end -->
                         <!-- button -->
-                        <a href="/contact.html" class="art-link art-color-link art-w-chevron">Order now</a>
+                        <a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Request Quote</a>
                       </div>
                       <!-- price body end -->
                     </div>
@@ -560,7 +547,7 @@
                         <h5 class="mb-30"> Full time</h5>
                         <!-- price cost -->
                         <div class="art-price-cost">
-                          <div class="art-number"><span>$</span>2999<span>m</span></div>
+                          <div class="art-number">Order Now<sup>*</sup></div>
                         </div>
                         <!-- price cost end -->
                         <!-- price list -->
@@ -578,7 +565,7 @@
                         </ul>
                         <!-- price list end -->
                         <!-- button -->
-                        <a href="/contact.html" class="art-link art-color-link art-w-chevron">Order now</a>
+                        <a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Request Quote</a>
                       </div>
                       <!-- price body end -->
                     </div>
@@ -590,124 +577,6 @@
                 </div>
                 <!-- row end -->
 
-=======
-
-                  <!-- col -->
-                  <div class="col-lg-4">
-
-                    <!-- price -->
-                    <div class="art-a art-price">
-                      <!-- price body -->
-                      <div class="art-price-body">
-                        <h5 class="mb-30">Starter Price</h5>
-                        <!-- price cost -->
-                        <div class="art-price-cost">
-                          <div class="art-number">FREE<sup>*</sup></div>
-                        </div>
-                        <!-- price cost end -->
-                        <!-- price list -->
-                        <ul class="art-price-list">
-                          <!-- list item -->
-                          <li>Ui Design</li>
-                          <!-- list item -->
-                          <li>Web Development</li>
-                          <!-- list item -->
-                          <li class="art-empty-item">Logo design</li>
-                          <!-- list item -->
-                          <li class="art-empty-item">SEO optimization</li>
-                          <!-- list item -->
-                          <li class="art-empty-item">Wordpress integration</li>
-                        </ul>
-                        <!-- price list end -->
-                        <!-- button -->
-                        <a href="/contact.html" class="art-link art-color-link art-w-chevron">Order now</a>
-                        <div class="art-asterisk"><sup>*</sup>Free only when ordering paid services</div>
-                      </div>
-                      <!-- price body end -->
-                    </div>
-                    <!-- price end -->
-
-                  </div>
-                  <!-- grid -->
-
-                  <!-- col -->
-                  <div class="col-lg-4">
-
-                    <!-- price -->
-                    <div class="art-a art-price art-popular-price">
-                      <!-- price body -->
-                      <div class="art-price-body">
-                        <h5 class="mb-30">Hourly payment</h5>
-                        <!-- price cost -->
-                        <div class="art-price-cost">
-                          <div class="art-number"><span>$</span>29<span>h</span></div>
-                        </div>
-                        <!-- price cost end -->
-                        <!-- price list -->
-                        <ul class="art-price-list">
-                          <!-- list item -->
-                          <li>Ui Design</li>
-                          <!-- list item -->
-                          <li>Web Development</li>
-                          <!-- list item -->
-                          <li>Logo design</li>
-                          <!-- list item -->
-                          <li class="art-empty-item">SEO optimization</li>
-                          <!-- list item -->
-                          <li class="art-empty-item">Wordpress integration</li>
-                        </ul>
-                        <!-- price list end -->
-                        <!-- button -->
-                        <a href="/contact.html" class="art-link art-color-link art-w-chevron">Order now</a>
-                      </div>
-                      <!-- price body end -->
-                    </div>
-                    <!-- price end -->
-
-                  </div>
-                  <!-- col end -->
-
-                  <!-- col -->
-                  <div class="col-lg-4">
-
-                    <!-- price -->
-                    <div class="art-a art-price">
-                      <!-- price body -->
-                      <div class="art-price-body">
-                        <h5 class="mb-30"> Full time</h5>
-                        <!-- price cost -->
-                        <div class="art-price-cost">
-                          <div class="art-number"><span>$</span>2999<span>m</span></div>
-                        </div>
-                        <!-- price cost end -->
-                        <!-- price list -->
-                        <ul class="art-price-list">
-                          <!-- list item -->
-                          <li>Ui Design</li>
-                          <!-- list item -->
-                          <li>Web Development</li>
-                          <!-- list item -->
-                          <li>Logo design</li>
-                          <!-- list item -->
-                          <li>SEO optimization</li>
-                          <!-- list item -->
-                          <li>Wordpress integration</li>
-                        </ul>
-                        <!-- price list end -->
-                        <!-- button -->
-                        <a href="/contact.html" class="art-link art-color-link art-w-chevron">Order now</a>
-                      </div>
-                      <!-- price body end -->
-                    </div>
-                    <!-- price end -->
-
-                  </div>
-                  <!-- col end -->
-
-                </div>
-                <!-- row end -->
-
->>>>>>> portfolio/kevo
               </div>
               <!-- container end -->
 
@@ -750,7 +619,7 @@
                             <!-- testimonial body -->
                             <div class="testimonial-body">
                               <!-- photo -->
-                              <img class="art-testimonial-face" src="<?php echo base_url();?>/resources/img/testimonials/face-1.jpg" alt="face">
+                              <img class="art-testimonial-face" src="<?php echo base_url();?>/resources/img/testimonials/face-1.png" alt="face">
                               <!-- name -->
                               <h5>Douglas Odhiambo</h5>
                               <div class="art-el-suptitle mb-15">CEO, FINSYS GROUP LIMITED</div>
@@ -791,7 +660,7 @@
                             <!-- testimonial body -->
                             <div class="testimonial-body">
                               <!-- photo -->
-                              <img class="art-testimonial-face" src="<?php echo base_url();?>/resources/img/testimonials/face-2.jpg" alt="face">
+                              <img class="art-testimonial-face" src="<?php echo base_url();?>/resources/img/testimonials/face-2.png" alt="face">
                               <!-- name -->
                               <h5>CYRUS MUCHIRI</h5>
                               <div class="art-el-suptitle mb-15">Software Engineer Consultant, CARREL TECHNOLOGIES LIMITED</div>
@@ -832,7 +701,7 @@
                             <!-- testimonial body -->
                             <div class="testimonial-body">
                               <!-- photo -->
-                              <img class="art-testimonial-face" src="<?php echo base_url();?>/resources/img/testimonials/face-3.jpg" alt="face">
+                              <img class="art-testimonial-face" src="<?php echo base_url();?>/resources/img/testimonials/face-3.png" alt="face">
                               <!-- name -->
                               <h5>Paul Trueman</h5>
                               <div class="art-el-suptitle mb-15">Template author</div>
@@ -873,7 +742,7 @@
                             <!-- testimonial body -->
                             <div class="testimonial-body">
                               <!-- photo -->
-                              <img class="art-testimonial-face" src="<?php echo base_url();?>/resources/img/testimonials/face-4.jpg" alt="face">
+                              <img class="art-testimonial-face" src="<?php echo base_url();?>/resources/img/testimonials/face-4.png" alt="face">
                               <!-- name -->
                               <h5>Paul Trueman</h5>
                               <div class="art-el-suptitle mb-15">Template author</div>

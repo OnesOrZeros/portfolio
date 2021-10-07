@@ -269,9 +269,9 @@
                           <!-- service content -->
                             <div class="art-service-ib-content">
                               <!-- title -->
-                              <h5 class="mb-15">Software Development</h5>
+                              <h5 class="mb-15">Application Maintenance</h5>
                               <!-- text -->
-                              <div class="mb-15">We build custom software solutions for all business needs including web-based and desktop applications.</div>
+                              <div class="mb-15">Forget any maintenance troubles for your small or huge application and let us do the toiling for you.</div>
                               <!-- button -->
                               <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
                             </div>
@@ -290,9 +290,9 @@
                         <!-- service content -->
                           <div class="art-service-ib-content">
                             <!-- title -->
-                            <h5 class="mb-15">Application Hosting & Maintenance</h5>
+                            <h5 class="mb-15">Application Hosting</h5>
                             <!-- text -->
-                            <div class="mb-15">Forget any hosting and maintenance troubles for your small or huge application and let us do the toiling for you.</div>
+                            <div class="mb-15">Forget any hosting troubles for your small or huge application and let us do the toiling for you.</div>
                             <!-- button -->
                             <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
                           </div>
@@ -452,7 +452,7 @@
                             <!-- testimonial body -->
                             <div class="testimonial-body">
                               <!-- photo -->
-                              <img class="art-testimonial-face" src="<?php echo base_url();?>/resources/img/testimonials/face-1.jpg" alt="face">
+                              <img class="art-testimonial-face" src="<?php echo base_url();?>/resources/img/testimonials/face-1.png" alt="face">
                               <!-- name -->
                               <h5>Douglas Odhiambo</h5>
                               <div class="art-el-suptitle mb-15">CEO, FINSYS GROUP LIMITED</div>
@@ -493,7 +493,7 @@
                             <!-- testimonial body -->
                             <div class="testimonial-body">
                               <!-- photo -->
-                              <img class="art-testimonial-face" src="<?php echo base_url();?>/resources/img/testimonials/face-2.jpg" alt="face">
+                              <img class="art-testimonial-face" src="<?php echo base_url();?>/resources/img/testimonials/face-2.png" alt="face">
                               <!-- name -->
                               <h5>CYRUS MUCHIRI</h5>
                               <div class="art-el-suptitle mb-15">Software Engineer Consultant, CARREL TECHNOLOGIES LIMITED</div>
@@ -534,7 +534,7 @@
                             <!-- testimonial body -->
                             <div class="testimonial-body">
                               <!-- photo -->
-                              <img class="art-testimonial-face" src="<?php echo base_url();?>/resources/img/testimonials/face-3.jpg" alt="face">
+                              <img class="art-testimonial-face" src="<?php echo base_url();?>/resources/img/testimonials/face-3.png" alt="face">
                               <!-- name -->
                               <h5>Paul Trueman</h5>
                               <div class="art-el-suptitle mb-15">Template author</div>
@@ -575,7 +575,7 @@
                             <!-- testimonial body -->
                             <div class="testimonial-body">
                               <!-- photo -->
-                              <img class="art-testimonial-face" src="<?php echo base_url();?>/resources/img/testimonials/face-4.jpg" alt="face">
+                              <img class="art-testimonial-face" src="<?php echo base_url();?>/resources/img/testimonials/face-4.png" alt="face">
                               <!-- name -->
                               <h5>Paul Trueman</h5>
                               <div class="art-el-suptitle mb-15">Template author</div>
