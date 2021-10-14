@@ -163,6 +163,8 @@
                     </div>
                     <!-- grid item end -->
 
+                  </div>
+                </div>
                     
               </div>
               <!-- container end -->
