@@ -45,7 +45,7 @@
                               data-rotate='[ "web interfaces.", "android applications.", "great software.", "design mocups.", "automation tools." ]'></span>&lt;/<i>code</i>&gt;</div>
                           <div class="art-buttons-frame">
                             <!-- button -->
-                            <a href="<?php echo base_url(); ?>portfolio" class="art-btn art-btn-md"><span>Explore now</span></a>
+                            <a href="<?php echo base_url(); ?>portfolio" class="art-btn art-btn-md"><span>Explore Portfolio</span></a>
                             <!-- button -->
                             <a href="<?php echo base_url(); ?>contact" class="art-link art-white-link art-w-chevron">Hire me</a>
                           </div>
@@ -99,7 +99,7 @@
                       <!-- counter -->
                       <div class="art-counter-box">
                         <!-- counter number -->
-                        <span class="art-counter">50</span>
+                        <span class="art-counter">50</span><span class="art-counter-plus">+</span>
                       </div>
                       <!-- counter end -->
                       <!-- title -->
@@ -137,7 +137,7 @@
                       <!-- counter -->
                       <div class="art-counter-box">
                         <!-- counter number -->
-                        <span class="art-counter">100000</span><span class="art-counter-plus">s</span>
+                        <span class="art-counter">100,000</span><span class="art-counter-plus">+</span>
                       </div>
                       <!-- counter end -->
                       <!-- title -->

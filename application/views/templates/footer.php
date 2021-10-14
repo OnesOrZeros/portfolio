@@ -64,19 +64,7 @@
                   <li class="menu-item"><a href="<?php echo base_url(); ?>history">History</a></li>
                   <!-- menu item -->
                   <li class="menu-item"><a href="<?php echo base_url(); ?>contact">Contact</a></li>
-
-                  <!-- menu item -->
-                 
-                  <!-- menu item 
-                  <li class="menu-item"><a href="<?php echo base_url(); ?>onepage" target="_blank">Onepage</a></li>
-                  -->
-
-                  <!-- menu item -->
-
-                  <!-- menu item 
-                  <li class="menu-item"><a href="<?php echo base_url(); ?>onepage" target="_blank">Onepage</a></li>
-                  -->
-
+                  
                 </ul>
                 <!-- menu list end -->
               </nav>
