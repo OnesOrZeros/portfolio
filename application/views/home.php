@@ -49,7 +49,7 @@
                               data-rotate='[ "web interfaces.", "great software.", "android applications.", "design mocups.", "automation tools." ]'></span>&lt;/<i>code</i>&gt;</div>
                           <div class="art-buttons-frame">
                             <!-- button -->
-                            <a href="<?php echo base_url(); ?>portfolio" class="art-btn art-btn-md"><span>Explore now</span></a>
+                            <a href="<?php echo base_url(); ?>portfolio" class="art-btn art-btn-md"><span>Explore Portfolio</span></a>
                           </div>
                         </div>
                         <!-- main title end -->
@@ -101,7 +101,8 @@
                       <!-- counter -->
                       <div class="art-counter-box">
                         <!-- counter number -->
-                        <span class="art-counter">50</span>
+                        <span class="art-counter">50</span><span class="art-counter-plus">+</span>
+                      </div>
                       </div>
                       <!-- counter end -->
                       <!-- title -->
@@ -139,7 +140,7 @@
                       <!-- counter -->
                       <div class="art-counter-box">
                         <!-- counter number -->
-                        <span class="art-counter">100000</span><span class="art-counter-plus">s</span>
+                        <span class="art-counter">100000</span><span class="art-counter-plus">+</span>
                       </div>
                       <!-- counter end -->
                       <!-- title -->
@@ -472,21 +473,21 @@
                         <h5 class="mb-30">Starter Price</h5>
                         <!-- price cost -->
                         <div class="art-price-cost">
-                          <div class="art-number">Order Now<sup>*</sup></div>
+                          <div class="art-number">Static Website<sup>*</sup></div>
                         </div>
                         <!-- price cost end -->
                         <!-- price list -->
                         <ul class="art-price-list">
                           <!-- list item -->
-                          <li>Home Automation</li>
+                          <li>UI/UX Design</li>
                           <!-- list item -->
-                          <li>DevOps</li>
+                          <li>Logo design</li>
                           <!-- list item -->
-                          <li class="art-empty-item">Data Analytics & Visualization</li>
+                          <li class="art-empty-item">SEO optimization</li>
                           <!-- list item -->
-                          <li class="art-empty-item">Application Hosting </li>
+                          <li class="art-empty-item">Wordpress integration </li>
                           <!-- list item -->
-                          <li class="art-empty-item">Application Maintenance</li>
+                          <li class="art-empty-item">Web development</li>
                         </ul>
                         <!-- price list end -->
                         <!-- button -->
@@ -510,21 +511,21 @@
                         <h5 class="mb-30">Hourly payment</h5>
                         <!-- price cost -->
                         <div class="art-price-cost">
-                          <div class="art-number">Order Now<sup>*</sup></div>
+                          <div class="art-number">Dynamic Website<sup>*</sup></div>
                         </div>
                         <!-- price cost end -->
                         <!-- price list -->
                         <ul class="art-price-list">
                           <!-- list item -->
-                          <li>Software Development</li>
+                          <li>UI/UX Design</li>
                           <!-- list item -->
-                          <li>Android Development</li>
+                          <li>Logo design</li>
                           <!-- list item -->
-                          <li>IT Consultancy</li>
+                          <li>SEO optimization</li>
                           <!-- list item -->
-                          <li class="art-empty-item">SEO optimization</li>
+                          <li class="art-empty-item">Wordpress integration</li>
                           <!-- list item -->
-                          <li class="art-empty-item">Digital Marketing</li>
+                          <li class="art-empty-item">Web development</li>
                         </ul>
                         <!-- price list end -->
                         <!-- button -->
@@ -547,7 +548,7 @@
                         <h5 class="mb-30"> Full time</h5>
                         <!-- price cost -->
                         <div class="art-price-cost">
-                          <div class="art-number">Order Now<sup>*</sup></div>
+                          <div class="art-number">Web Application<sup>*</sup></div>
                         </div>
                         <!-- price cost end -->
                         <!-- price list -->
@@ -555,13 +556,13 @@
                           <!-- list item -->
                           <li>Ui Design</li>
                           <!-- list item -->
-                          <li>Web Development</li>
+                          <li>SEO optimization</li>
                           <!-- list item -->
                           <li>Logo design</li>
                           <!-- list item -->
-                          <li>SEO optimization</li>
-                          <!-- list item -->
                           <li>Wordpress integration</li>
+                          <!-- list item -->
+                          <li>Web Development</li>
                         </ul>
                         <!-- price list end -->
                         <!-- button -->
