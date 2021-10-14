@@ -166,7 +166,6 @@
                     
               </div>
               <!-- container end -->
-<<<<<<< HEAD
 
               <!-- container -->
               <div class="container-fluid">
@@ -185,7 +184,5 @@
         </div>
         <!-- content end -->
 
-=======
->>>>>>> portfolio/kevo
            
 <?php $this->load->view('templates/footer'); ?>
