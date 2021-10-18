@@ -223,7 +223,6 @@
                             <br>● Troubleshooting, debugging and upgrading existing systems
                             <br>● Deployment of programs/systems and evaluating user feedback
                             <br>● Developing software verification plans and quality assurance procedures</p>
-                          <a data-fancybox="recommendation" href="#art-recomendation-popup-1" class="art-link art-color-link art-w-chevron">Recommendation</a>
                         </div>
 
                         <div class="art-a art-timeline-content">
@@ -242,7 +241,6 @@
                             <br>● Software installation
                             <br>● Troubleshooting & networking
                             <br>● Data entry</p>
-                          <a data-fancybox="recommendation" href="#art-recomendation-popup-1" class="art-link art-color-link art-w-chevron">Recommendation</a>
                         </div>
 
                         <div class="art-a art-timeline-content">
@@ -258,7 +256,6 @@
                           <p>● Assisting the ICT manager with any given roles and responsibilities.
                             <br>● Assist with maintenance of Information Systems
                             <br>● Networking</p>
-                          <a data-fancybox="recommendation" href="#art-recomendation-popup-1" class="art-link art-color-link art-w-chevron">Recommendation</a>
                         </div>
 
                         <!-- popup -->

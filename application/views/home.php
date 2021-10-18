@@ -788,12 +788,6 @@
               </div>
               <!-- container end -->
 
-              <!-- container -->
-              <div class="container-fluid">
-
-                
-              </div>
-              <!-- container end -->
 
               <!-- container -->
               <div class="container-fluid">

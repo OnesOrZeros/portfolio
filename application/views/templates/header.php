@@ -134,6 +134,7 @@
                 </div>
                 <!-- skill end -->
 
+
                 <!-- skill -->
                 <div class="art-lang-skills-item">
                   <div id="circleprog2" class="art-cirkle-progress"></div>
