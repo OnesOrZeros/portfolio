@@ -136,14 +136,6 @@
 
                 <!-- skill -->
                 <div class="art-lang-skills-item">
-                  <div id="circleprog1" class="art-cirkle-progress"></div>
-                  <!-- title -->
-                  <h6>Regional Dialect</h6>
-                </div>
-                <!-- skill end -->
-
-                <!-- skill -->
-                <div class="art-lang-skills-item">
                   <div id="circleprog2" class="art-cirkle-progress"></div>
                   <!-- title -->
                   <h6>English</h6>
