@@ -32,8 +32,8 @@
                   <!-- col -->
                   <div class="col-lg-12">
 
-                   <!-- banner -->
-                   <div class="art-a art-banner" style="background-image: url<?php echo base_url();?>/resources/(img/bg.jpg)">
+                    <!-- banner -->
+                    <div class="art-a art-banner" style="background-image: url<?php echo base_url();?>/resources/(img/bg.jpg)">
                       <!-- banner back -->
                       <div class="art-banner-back"></div>
                       <!-- banner dec -->
@@ -141,7 +141,7 @@
                       <!-- counter -->
                       <div class="art-counter-box">
                         <!-- counter number -->
-                        <span class="art-counter">100000</span><span class="art-counter-plus">s</span>
+                        <span class="art-counter">10000</span><span class="art-counter-plus">+</span>
                       </div>
                       <!-- counter end -->
                       <!-- title -->
@@ -193,7 +193,7 @@
                         <!-- text -->
                         <div class="mb-15">Development of responsive websites and custom web based software solutions.</div>
                         <!-- button -->
-                        <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Request Quote</a></div>
+                        <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
                       </div>
                       <!-- service content end -->
                     </div>
@@ -214,7 +214,7 @@
                                 <!-- text -->
                                 <div class="mb-15">Design of classic user interfaces ensuring the best user experiences.</div>
                                 <!-- button -->
-                                <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Request Quote</a></div>
+                                <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
                             </div>
                           <!-- service content end -->
                         </div>
@@ -222,27 +222,6 @@
 
                   </div>
                   <!-- col end -->
-
-                 <!-- col -->
-                 <div class="col-lg-4 col-md-6">
-
-                    <!-- service -->
-                      <div class="art-a art-service-icon-box">
-                        <!-- service content -->
-                          <div class="art-service-ib-content">
-                            <!-- title -->
-                            <h5 class="mb-15">SEO</h5>
-                            <!-- text -->
-                            <div class="mb-15">Let people notice your brand by optimizing your website.</div>
-                            <!-- button -->
-                            <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Request Quote</a></div>
-                          </div>
-                        <!-- service content end -->
-                      </div>
-                    <!-- service end -->
-
-                  </div>
-                  <!-- col end -->                  
 
                   <!-- col -->
                   <div class="col-lg-4 col-md-6">
@@ -256,7 +235,7 @@
                               <!-- text -->
                               <div class="mb-15">I design, build and deploy android apps to help our clients.</div>
                               <!-- button -->
-                              <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Request Quote</a></div>
+                              <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
                             </div>
                           <!-- service content end -->
                         </div>
@@ -277,7 +256,7 @@
                               <!-- text -->
                               <div class="mb-15">We build custom software solutions for all business needs including web-based and desktop applications.</div>
                               <!-- button -->
-                              <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Request Quote</a></div>
+                              <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
                             </div>
                           <!-- service content end -->
                         </div>
@@ -294,11 +273,11 @@
                         <!-- service content -->
                           <div class="art-service-ib-content">
                             <!-- title -->
-                            <h5 class="mb-15">Application Maintenance</h5>
+                            <h5 class="mb-15">Software Development</h5>
                             <!-- text -->
-                            <div class="mb-15">Forget any maintenance troubles for your small or huge application and let us do the toiling for you.</div>
+                            <div class="mb-15">We build custom software solutions for all business needs including web-based and desktop applications.</div>
                             <!-- button -->
-                            <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Request Quote</a></div>
+                            <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
                           </div>
                         <!-- service content end -->
                       </div>
@@ -315,11 +294,11 @@
                       <!-- service content -->
                       <div class="art-service-ib-content">
                         <!-- title -->
-                        <h5 class="mb-15">Application Hosting</h5>
+                        <h5 class="mb-15">Application Hosting & Maintenance</h5>
                         <!-- text -->
-                        <div class="mb-15">Forget any hosting troubles for your small or huge application and let us do the toiling for you.</div>
+                        <div class="mb-15">Forget any hosting and maintenance troubles for your small or huge application and let us do the toiling for you.</div>
                         <!-- button -->
-                        <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Request Quote</a></div>
+                        <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
                       </div>
                       <!-- service content end -->
                     </div>
@@ -340,7 +319,7 @@
                         <!-- text -->
                         <div class="mb-15">We will help you automate processes and devices in your house or office easily using Alexa, Siri or Google.</div>
                         <!-- button -->
-                        <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Request Quote</a></div>
+                        <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
                       </div>
                       <!-- service content end -->
                     </div>
@@ -361,7 +340,7 @@
                         <!-- text -->
                         <div class="mb-15">Analyze and visualize your organization's data to develop insights that will help you grow your business.</div>
                         <!-- button -->
-                        <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Request Quote</a></div>
+                        <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
                       </div>
                       <!-- service content end -->
                     </div>
@@ -382,7 +361,7 @@
                         <!-- text -->
                         <div class="mb-15">Develop and maintain your systems and applications to ensure availability, great perfomance and efficiency.</div>
                         <!-- button -->
-                        <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Request Quote</a></div>
+                        <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
                       </div>
                       <!-- service content end -->
                     </div>
@@ -403,7 +382,7 @@
                                <!-- text -->
                                <div class="mb-15">Improve your business presence online and across various social media platforms to reach more customers.</div>
                                  <!-- button -->
-                                 <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Request Quote</a></div>
+                                 <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
                               </div>
                             <!-- service content end -->
                           </div>
@@ -424,7 +403,7 @@
                             <!-- text -->
                             <div class="mb-15">Provide professional consultancy services on all matters technology or data to individuals or businesses that want to leverage the power of tech.</div>
                             <!-- button -->
-                            <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Request Quote</a></div>
+                            <div class="art-buttons-frame"><a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Order now</a></div>
                           </div>
                         <!-- service content end -->
                       </div>
@@ -474,25 +453,25 @@
                         <h5 class="mb-30">Starter Price</h5>
                         <!-- price cost -->
                         <div class="art-price-cost">
-                          <div class="art-number">Order Now<sup>*</sup></div>
+                          <div class="art-number">FREE<sup>*</sup></div>
                         </div>
                         <!-- price cost end -->
                         <!-- price list -->
                         <ul class="art-price-list">
                           <!-- list item -->
-                          <li>Home Automation</li>
+                          <li>Ui Design</li>
                           <!-- list item -->
-                          <li>DevOps</li>
+                          <li>Web Development</li>
                           <!-- list item -->
-                          <li class="art-empty-item">Data Analytics & Visualization</li>
+                          <li class="art-empty-item">Logo design</li>
                           <!-- list item -->
-                          <li class="art-empty-item">Application Hosting </li>
+                          <li class="art-empty-item">SEO optimization</li>
                           <!-- list item -->
-                          <li class="art-empty-item">Application Maintenance</li>
+                          <li class="art-empty-item">Wordpress integration</li>
                         </ul>
                         <!-- price list end -->
                         <!-- button -->
-                        <a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Request Quote</a>
+                        <a href="/contact.html" class="art-link art-color-link art-w-chevron">Order now</a>
                         <div class="art-asterisk"><sup>*</sup>Free only when ordering paid services</div>
                       </div>
                       <!-- price body end -->
@@ -512,25 +491,25 @@
                         <h5 class="mb-30">Hourly payment</h5>
                         <!-- price cost -->
                         <div class="art-price-cost">
-                          <div class="art-number">Order Now<sup>*</sup></div>
+                          <div class="art-number"><span>$</span>29<span>h</span></div>
                         </div>
                         <!-- price cost end -->
                         <!-- price list -->
                         <ul class="art-price-list">
                           <!-- list item -->
-                          <li>Software Development</li>
+                          <li>Ui Design</li>
                           <!-- list item -->
-                          <li>Android Development</li>
+                          <li>Web Development</li>
                           <!-- list item -->
-                          <li>IT Consultancy</li>
+                          <li>Logo design</li>
                           <!-- list item -->
                           <li class="art-empty-item">SEO optimization</li>
                           <!-- list item -->
-                          <li class="art-empty-item">Digital Marketing</li>
+                          <li class="art-empty-item">Wordpress integration</li>
                         </ul>
                         <!-- price list end -->
                         <!-- button -->
-                        <a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Request Quote</a>
+                        <a href="/contact.html" class="art-link art-color-link art-w-chevron">Order now</a>
                       </div>
                       <!-- price body end -->
                     </div>
@@ -549,7 +528,7 @@
                         <h5 class="mb-30"> Full time</h5>
                         <!-- price cost -->
                         <div class="art-price-cost">
-                          <div class="art-number">Order Now<sup>*</sup></div>
+                          <div class="art-number"><span>$</span>2999<span>m</span></div>
                         </div>
                         <!-- price cost end -->
                         <!-- price list -->
@@ -567,7 +546,7 @@
                         </ul>
                         <!-- price list end -->
                         <!-- button -->
-                        <a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Request Quote</a>
+                        <a href="/contact.html" class="art-link art-color-link art-w-chevron">Order now</a>
                       </div>
                       <!-- price body end -->
                     </div>
@@ -621,7 +600,7 @@
                             <!-- testimonial body -->
                             <div class="testimonial-body">
                               <!-- photo -->
-                              <img class="art-testimonial-face" src="<?php echo base_url();?>/resources/img/testimonials/face-1.png" alt="face">
+                              <img class="art-testimonial-face" src="<?php echo base_url();?>/resources/img/testimonials/face-1.jpg" alt="face">
                               <!-- name -->
                               <h5>Douglas Odhiambo</h5>
                               <div class="art-el-suptitle mb-15">CEO, FINSYS GROUP LIMITED</div>
@@ -662,7 +641,7 @@
                             <!-- testimonial body -->
                             <div class="testimonial-body">
                               <!-- photo -->
-                              <img class="art-testimonial-face" src="<?php echo base_url();?>/resources/img/testimonials/face-2.png" alt="face">
+                              <img class="art-testimonial-face" src="<?php echo base_url();?>/resources/img/testimonials/face-2.jpg" alt="face">
                               <!-- name -->
                               <h5>CYRUS MUCHIRI</h5>
                               <div class="art-el-suptitle mb-15">Software Engineer Consultant, CARREL TECHNOLOGIES LIMITED</div>
@@ -703,7 +682,7 @@
                             <!-- testimonial body -->
                             <div class="testimonial-body">
                               <!-- photo -->
-                              <img class="art-testimonial-face" src="<?php echo base_url();?>/resources/img/testimonials/face-3.png" alt="face">
+                              <img class="art-testimonial-face" src="<?php echo base_url();?>/resources/img/testimonials/face-3.jpg" alt="face">
                               <!-- name -->
                               <h5>Paul Trueman</h5>
                               <div class="art-el-suptitle mb-15">Template author</div>
@@ -744,7 +723,7 @@
                             <!-- testimonial body -->
                             <div class="testimonial-body">
                               <!-- photo -->
-                              <img class="art-testimonial-face" src="<?php echo base_url();?>/resources/img/testimonials/face-4.png" alt="face">
+                              <img class="art-testimonial-face" src="<?php echo base_url();?>/resources/img/testimonials/face-4.jpg" alt="face">
                               <!-- name -->
                               <h5>Paul Trueman</h5>
                               <div class="art-el-suptitle mb-15">Template author</div>
