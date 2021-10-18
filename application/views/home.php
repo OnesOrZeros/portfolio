@@ -626,7 +626,7 @@
                               <h5>Douglas Odhiambo</h5>
                               <div class="art-el-suptitle mb-15">CEO, FINSYS GROUP LIMITED</div>
                               <!-- text -->
-                              <div class="mb-15">Working with Artur has been a pleasure. Better yet - I alerted them of a minor issue before going to sleep. The issue was fixed the next morning. I couldn't ask for better support. Thank you Artur!
+                              <div class="mb-15">Working with Mwaura has been a pleasure. Better yet - I alerted them of a minor issue before going to sleep. The issue was fixed the next morning. I couldn't ask for better support. Thank you Mwaura!
                                 This is easily a 5 star freelancer.</div>
                             </div>
                             <!-- testimonial body end -->
@@ -667,7 +667,7 @@
                               <h5>CYRUS MUCHIRI</h5>
                               <div class="art-el-suptitle mb-15">Software Engineer Consultant, CARREL TECHNOLOGIES LIMITED</div>
                               <!-- text -->
-                              <div class="mb-15">Working with Artur has been a pleasure. Better yet - I alerted them of a minor issue before going to sleep. The issue was fixed the next morning. I couldn't ask for better support. Thank you Artur!
+                              <div class="mb-15">Working with Mwaura has been a pleasure. Better yet - I alerted them of a minor issue before going to sleep. The issue was fixed the next morning. I couldn't ask for better support. Thank you Mwaura!
                                 This is easily a 5 star freelancer.</div>
                             </div>
                             <!-- testimonial body end -->
@@ -708,7 +708,7 @@
                               <h5>Paul Trueman</h5>
                               <div class="art-el-suptitle mb-15">Template author</div>
                               <!-- text -->
-                              <div class="mb-15">Working with Artur has been a pleasure. Better yet - I alerted them of a minor issue before going to sleep. The issue was fixed the next morning. I couldn't ask for better support. Thank you Artur!
+                              <div class="mb-15">Working with Mwaura has been a pleasure. Better yet - I alerted them of a minor issue before going to sleep. The issue was fixed the next morning. I couldn't ask for better support. Thank you Mwaura!
                                 This is easily a 5 star freelancer.</div>
                             </div>
                             <!-- testimonial body end -->
