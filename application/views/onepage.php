@@ -1064,14 +1064,10 @@
                       <div class="art-table p-15-15">
                         <ul>
                           <li>
-                            <h6>Country:</h6><span>Canada</span>
+                          <img style="height:19px; width: 21px;" src="<?php echo base_url();?>/resources/img/icons/kenya-icon.png" alt="brand"><span>Country:</span><h6 style="color: #FFC107; padding: 3px;">Kenya</h6>
                           </li>
                           <li>
-                            <h6>City:</h6><span>Toronto</span>
-                          </li>
-
-                          <li>
-                            <h6>Streat:</h6><span>20 Dellbank Rd</span>
+                          <i class="fas fa-city"></i><span>City:</span><h6 style="color: #FFC107; padding: 3px;">Nairobi</h6>
                           </li>
                         </ul>
                       </div>
@@ -1086,13 +1082,10 @@
                       <div class="art-table p-15-15">
                         <ul>
                           <li>
-                            <h6>Email:</h6><span>carter.inbox@mail.com</span>
+                          <i class="fas fa-envelope"></i><span>Personal:</span><a rel="noreferrer" href="mailto:mwauragitonga12@gmail.com" target="_blank"><h6 style="color: #FFC107;">mwauragitonga12@gmail.com</h6></a>
                           </li>
                           <li>
-                            <h6>Telegram:</h6><span>@arter</span>
-                          </li>
-                          <li>
-                            <h6>Skype:</h6><span>Arter</span>
+                          <i class="fas fa-briefcase"></i><span>Office:</span><a rel="noreferrer" href="mailto:info@mwauragitonga.com" target="_blank"><h6 style="color: #FFC107;">info@mwauragitonga.com</h6></a>
                           </li>
                         </ul>
                       </div>
@@ -1107,13 +1100,13 @@
                       <div class="art-table p-15-15">
                         <ul>
                           <li>
-                            <h6>Support service:</h6><span>+78 (098) 333 11 22</span>
+                          <i class="fas fa-phone"></i><span>Phone:</span><a rel="noreferrer" href="tel:+254725807288" target="_blank"><h6 style="color: #FFC107;">(+254) 725-807-288</h6></a>
                           </li>
                           <li>
-                            <h6>Office:</h6><span>+78 (098) 326 11 22</span>
+                          <i class="fab fa-skype"></i><span>Skype:</span><a rel="noreferrer" href="skype:mwauragitonga12?chat" target="_blank"><h6 style="color: #FFC107;">mwauragitonga12</h6></a>
                           </li>
                           <li>
-                            <h6>Personal:</h6><span>+78 (077) 114 26 53</span>
+                          <i class="fab fa-twitter"></i><span>Twitter:</span><a rel="noreferrer" href="https://twitter.com/__Gitonga?t=bxYcBRnlP7cZ1iOL9dLJUg&s=09" target="_blank"><h6 style="color: #FFC107;">@__Gitonga</h6></a>
                           </li>
                         </ul>
                       </div>
