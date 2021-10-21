@@ -471,7 +471,6 @@
                     <div class="art-a art-price">
                       <!-- price body -->
                       <div class="art-price-body">
-                        <h5 class="mb-30">Starter Price</h5>
                         <!-- price cost -->
                         <div class="art-price-cost">
                           <div class="art-number">Static Website<sup>*</sup></div>
@@ -493,7 +492,6 @@
                         <!-- price list end -->
                         <!-- button -->
                         <a href="<?php echo base_url(); ?>contact" class="art-link art-color-link art-w-chevron">Request Quote</a>
-                        <div class="art-asterisk"><sup>*</sup>Free only when ordering paid services</div>
                       </div>
                       <!-- price body end -->
                     </div>
@@ -509,7 +507,6 @@
                     <div class="art-a art-price art-popular-price">
                       <!-- price body -->
                       <div class="art-price-body">
-                        <h5 class="mb-30">Hourly payment</h5>
                         <!-- price cost -->
                         <div class="art-price-cost">
                         <div class="art-number">Dynamic Website<sup>*</sup></div>
@@ -546,7 +543,6 @@
                     <div class="art-a art-price">
                       <!-- price body -->
                       <div class="art-price-body">
-                        <h5 class="mb-30"> Full time</h5>
                         <!-- price cost -->
                         <div class="art-price-cost">
                         <div class="art-number">Web Application<sup>*</sup></div>
@@ -695,49 +691,6 @@
                         </div>
                         <!-- slide end -->
 
-                        <!-- slide -->
-                        <div class="swiper-slide">
-
-                          <!-- testimonial -->
-                          <div class="art-a art-testimonial">
-                            <!-- testimonial body -->
-                            <div class="testimonial-body">
-                              <!-- photo -->
-                              <img class="art-testimonial-face" src="<?php echo base_url();?>/resources/img/testimonials/face-3.png" alt="face">
-                              <!-- name -->
-                              <h5>Paul Trueman</h5>
-                              <div class="art-el-suptitle mb-15">Template author</div>
-                              <!-- text -->
-                              <div class="mb-15">Working with Mwaura has been a pleasure. Better yet - I alerted them of a minor issue before going to sleep. The issue was fixed the next morning. I couldn't ask for better support. Thank you Mwaura!
-                                This is easily a 5 star freelancer.</div>
-                            </div>
-                            <!-- testimonial body end -->
-                            <!-- testimonial footer -->
-                            <div class="art-testimonial-footer">
-                              <div class="art-left-side">
-                                <!-- star rate -->
-                                <ul class="art-star-rate">
-                                  <li><i class="fas fa-star"></i></li>
-                                  <li><i class="fas fa-star"></i></li>
-                                  <li><i class="fas fa-star"></i></li>
-                                  <li><i class="fas fa-star"></i></li>
-                                  <li><i class="fas fa-star"></i></li>
-                                </ul>
-                                <!-- star rate end -->
-                              </div>
-                              <div class="art-right-side">
-
-                              </div>
-                            </div>
-                            <!-- testimonial footer end -->
-                          </div>
-                          <!-- testimonial end -->
-
-                        </div>
-                        <!-- slide end -->
-
-                       
-
                       </div>
                       <!-- slider wrapper end -->
                     </div>
@@ -779,47 +732,6 @@
                     </div>
                     <!-- slider navigation end -->
 
-                  </div>
-                  <!-- col end -->
-
-                </div>
-                <!-- row end -->
-
-              </div>
-              <!-- container end -->
-
-
-              <!-- container -->
-              <div class="container-fluid">
-
-                <!-- row -->
-                <div class="row">
-
-                  <!-- col -->
-                  <div class="col-6 col-lg-3">
-                    <!-- brand -->
-                    <img class="art-brand" src="<?php echo base_url();?>/resources/img/brands/p1.jpg" alt="brand">
-                  </div>
-                  <!-- col end -->
-
-                  <!-- col -->
-                  <div class="col-6 col-lg-3">
-                    <!-- brand -->
-                    <img class="art-brand" src="<?php echo base_url();?>/resources/img/brands/p2.jpg" alt="brand">
-                  </div>
-                  <!-- col end -->
-
-                  <!-- col -->
-                  <div class="col-6 col-lg-3">
-                    <!-- brand -->
-                    <img class="art-brand" src="<?php echo base_url();?>/resources/img/brands/p3.jpg" alt="brand">
-                  </div>
-                  <!-- col end -->
-
-                  <!-- col -->
-                  <div class="col-6 col-lg-3">
-                    <!-- brand -->
-                    <img class="art-brand" src="<?php echo base_url();?>/resources/img/brands/p4.jpg" alt="brand">
                   </div>
                   <!-- col end -->
 
