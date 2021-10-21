@@ -89,7 +89,7 @@
               </div>
               <!-- avatar end -->
               <!-- name -->
-              <h5 class="art-name mb-10"><a href="/home.html">Mwaura Kelvin Gitonga</a></h5>
+              <h5 class="art-name mb-10"><a href="<?php echo base_url(); ?>portfolio">Mwaura Kelvin Gitonga</a></h5>
               <!-- post -->
               <div class="art-sm-text">Full Stack Developer </br> 
                         <?php $dob='2016-01-01';

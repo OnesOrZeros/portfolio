@@ -34,7 +34,7 @@
                     <!-- filter -->
                     <div class="art-filter mb-30">
                       <!-- filter link -->
-                      <a href="#" data-filter="*" class="art-link art-current">All Categories</a>
+                      <a href="#" data-filter="*" class="art-link art-current">My Work</a>
                     </div>
                     <!-- filter end -->
 
@@ -157,6 +157,30 @@
                         <div class="mb-15">We offer a variety of solutions to make all your debt tracking easy.</div>
                         <!-- button -->
                         <a href="https://creditcheck.co.ke/" class="art-link art-color-link art-w-chevron">Read more</a>
+                      </div>
+                      <!-- description end -->
+
+                    </div>
+                    <!-- grid item end -->
+
+                    <!-- grid item -->
+                    <div class="art-grid-item webTemplates">
+
+                      <!-- grid item frame -->
+                      <a data-fancybox="gallery" href="<?php echo base_url();?>/resources/img/works/original-size/6.png" class="art-a art-portfolio-item-frame art-square">
+                        <!-- img -->
+                        <img src="<?php echo base_url();?>/resources/img/works/thumbnail/6.png" alt="item">
+                        <!-- zoom icon -->
+                        <span class="art-item-hover"><i class="fas fa-expand"></i></span>
+                      </a>
+                      <!-- grid item frame end -->
+                      <!-- description -->
+                      <div class="art-item-description">
+                        <!-- title -->
+                        <h5 class="mb-15">Dawati Online Education</h5>
+                        <div class="mb-15">Dawati is an online platform that helps you learn and get the best grades in your secondary school exams. Results guaranteed!</div>
+                        <!-- button -->
+                        <a href="https://dawati.co.ke/" class="art-link art-color-link art-w-chevron">Read more</a>
                       </div>
                       <!-- description end -->
 
